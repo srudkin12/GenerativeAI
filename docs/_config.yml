@@ -1,0 +1,11 @@
+title: "AI-Assisted Social Science Research"
+description: "A Reason-Provenance Resource and Worked Case Study"
+theme: minima
+header_pages:
+  - about.md
+  - research-journey.md
+  - reason-provenance.md
+  - worked-cases/index.md
+  - tools/index.md
+  - publications.md
+  - cite.md
