@@ -1,5 +1,16 @@
 # Changelog
 
+## v0.3.7 — masthead and home-page redesign
+
+### Changed
+
+- Replaced the v0.3.6 Minima-header modification with a dedicated two-row site masthead.
+- Site identity now occupies its own row: title/subtitle on the left, author/affiliation on the right.
+- Navigation now sits on a separate row and can scroll horizontally on narrow screens rather than competing with the author block.
+- Added an explicit Home link.
+- Reworked the landing page around a restrained hero panel, central research question, three governing principles and three clear entry routes.
+- Preserved the methods-first content architecture and all existing public resources.
+
 ## v0.3.6 — persistent site authorship
 
 ### Changed

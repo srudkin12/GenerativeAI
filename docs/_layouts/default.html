@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  {%- include head.html -%}
+  <body>
+    <a class="skip-link" href="#main-content">Skip to content</a>
+
+    <header class="resource-masthead" role="banner">
+      <div class="wrapper masthead-inner">
+        <div class="masthead-identity">
+          <a class="masthead-title" href="{{ "/" | relative_url }}">
+            {{ site.title | escape }}
+          </a>
+          <div class="masthead-subtitle">{{ site.description | escape }}</div>
+        </div>
+
+        <div class="masthead-author" aria-label="Author">
+          <div class="masthead-author-name">{{ site.author_name | escape }}</div>
+          <div class="masthead-author-affiliation">{{ site.author_affiliation | escape }}</div>
+        </div>
+      </div>
+
+      <div class="resource-nav-wrap">
+        <nav class="wrapper resource-nav" aria-label="Primary">
+          {%- assign default_paths = site.pages | map: "path" -%}
+          {%- assign page_paths = site.header_pages | default: default_paths -%}
+
+          <a class="resource-nav-link resource-nav-home" href="{{ "/" | relative_url }}">Home</a>
+          {%- for path in page_paths -%}
+            {%- assign my_page = site.pages | where: "path", path | first -%}
+            {%- if my_page.title -%}
+              <a class="resource-nav-link" href="{{ my_page.url | relative_url }}">
+                {{ my_page.title | escape }}
+              </a>
+            {%- endif -%}
+          {%- endfor -%}
+        </nav>
+      </div>
+    </header>
+
+    <main id="main-content" class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+  </body>
+</html>
