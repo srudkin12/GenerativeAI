@@ -9,7 +9,7 @@ title: Cite
 
 Until a DOI-bearing release exists, use:
 
-> Rudkin, Simon. *AI-Assisted Social Science Research: Methods, Governance and Reason Provenance*. Version 0.3.5 (development). Department of Social Statistics, University of Manchester.
+> Rudkin, Simon. *AI-Assisted Social Science Research: Methods, Governance and Reason Provenance*. Version 0.3.6 (development). Department of Social Statistics, University of Manchester.
 
 A permanent DOI should replace the development citation after the first archived public release.
 

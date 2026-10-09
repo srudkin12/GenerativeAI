@@ -1,5 +1,14 @@
 # Changelog
 
+## v0.3.6 — persistent site authorship
+
+### Changed
+
+- Added persistent site-level authorship to the GitHub Pages header.
+- The banner now identifies **Simon Rudkin** and the **Department of Social Statistics, University of Manchester** on every public page.
+- Kept the site title as the primary visual identity and the existing navigation unchanged.
+- Added responsive styling so the authorship line remains visible on desktop and mobile layouts.
+
 ## v0.3.5 — completed PISA exemplars
 
 ### Added
