@@ -3,7 +3,10 @@
 ## Content
 
 - [ ] README reflects the final public scope.
-- [ ] Seven worked cases have been read as social-science prose rather than project notes.
+- [ ] Seven worked research-process cases have been read as social-science prose rather than project notes.
+- [ ] Manuscript-governance pages are understandable without prior knowledge of the Academic Writing Filter project.
+- [ ] Ten-step protocol is understandable without prior knowledge of PISA.
+- [ ] Workshop pages lead to concrete participant outputs rather than discussion alone.
 - [ ] Direct quotations, if any, are verified against authoritative originals.
 - [ ] No reconstructed wording appears as a quotation.
 - [ ] No raw internal chat logs are included accidentally.
@@ -16,18 +19,28 @@
 - [ ] PISA is described as developmental illustration, not validation.
 - [ ] Attribution claims remain bounded.
 - [ ] Attribution is separated from endorsement of AI-intensive labour arrangements.
+- [ ] Reason provenance and manuscript governance are not treated as synonyms.
 - [ ] PCA/Ball Mapper claims match the final empirical position.
 - [ ] The withdrawn direct-flow inference has not reappeared.
-- [ ] Generated code/text is not described as empirical evidence.
+- [ ] Generated code/text is not described as verified evidence merely because it was generated.
+- [ ] The Academic Writing Filter is not described as empirically proven to improve writing or publication outcomes.
+- [ ] PISA claim-preservation examples are not represented as historical evidence that a formal contract existed during the original empirical work.
+
+## Rights and provenance
+
+- [ ] Academic Writing Filter licensing/provenance decision checked.
+- [ ] Cochrane is not described as author, approver or endorser of the filter.
+- [ ] Repository licence chosen and added.
+- [ ] Third-party rights statements checked.
 
 ## Identity and citation
 
 - [ ] Author: Simon Rudkin.
 - [ ] Affiliation: Department of Social Statistics, University of Manchester.
 - [ ] ORCID added if desired.
-- [ ] Licence chosen and added.
 - [ ] `CITATION.cff` updated.
 - [ ] Version changed from development to public release.
+- [ ] Academic Writing Filter and working-paper citations checked.
 - [ ] Zenodo metadata checked.
 - [ ] DOI added after deposit.
 
@@ -35,7 +48,7 @@
 
 ```bash
 git status
-find . -maxdepth 4 -type f | sort
+find . -maxdepth 5 -type f | sort
 ```
 
 Confirm that no unexpected files, temporary files or private artefacts are being tracked.

@@ -5,17 +5,20 @@ authors:
   - family-names: "Rudkin"
     given-names: "Simon"
     affiliation: "Department of Social Statistics, University of Manchester"
-version: "0.1.0"
+version: "0.3.0"
 abstract: >-
-  A social-science-facing resource and worked case study on the use of generative
-  AI across a research workflow, with particular attention to reason provenance,
-  attribution ambiguity, consequential research judgement, claim revision and
-  evidential control.
+  A social-science-facing seminar, resource and workshop programme on
+  generative-AI-assisted research. The resource connects reason provenance,
+  empirical verification, adversarial challenge, claim authorisation and
+  manuscript governance using a documented PISA project and the Academic
+  Writing Filter.
 keywords:
   - "social science"
   - "generative AI"
   - "research methods"
   - "reason provenance"
+  - "manuscript governance"
+  - "claim preservation"
   - "research transparency"
   - "AI-assisted research"
   - "PISA"

@@ -29,6 +29,12 @@ A public data release created the substantive opportunity. The researcher brough
 ↓  
 **Claims narrowed, revised or withdrawn**  
 ↓  
+**Substantive claim authorisation**  
+↓  
+**Manuscript governance and revision**  
+↓  
+**Release audit and direct inspection**  
+↓  
 **Publication-oriented empirical manuscript**  
 ↓  
 **Reflection on contribution and attribution**  
@@ -52,4 +58,6 @@ The archive contains several kinds of consequential episode:
 - a researcher-originated concern about retrospective storytelling that became part of the conceptual framework;
 - direct inspection of the finished scholarly object that still found problems.
 
-These episodes make it possible to discuss intellectual contribution without collapsing the entire project into a single percentage of "human" or "AI" authorship.
+The Academic Writing Filter adds a complementary question: **once the research argument has been authorised, which revisions are permitted without changing it?**
+
+Together, the two strands make it possible to discuss intellectual contribution and manuscript transformation without collapsing either into a single percentage of "human" or "AI" authorship.

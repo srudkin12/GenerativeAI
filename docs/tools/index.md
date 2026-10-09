@@ -7,9 +7,15 @@ title: Researcher tools
 
 The templates are intentionally lightweight.
 
-They are designed for **consequential decisions**, not complete surveillance of the research process.
+They are designed for **consequential decisions and claim boundaries**, not complete surveillance of the research process.
 
-## Templates
+## Starting and specifying the project
+
+### [AI-Assisted Research Charter](../../templates/ai-assisted-research-charter.md)
+
+Use before substantial AI-assisted exploration to state the substantive problem, analytical object, non-negotiable constraints, permitted AI roles and verification boundaries.
+
+## Contribution and research-trajectory tools
 
 ### [Reason-Provenance Record](../../templates/reason-provenance-record.md)
 
@@ -30,6 +36,22 @@ Use when a result remains numerically correct but its substantive interpretation
 ### [Researcher–AI Contribution Map](../../templates/researcher-ai-contribution-map.md)
 
 Use to distinguish origination, evaluation, integration and interpretation across selected research episodes.
+
+## Manuscript-governance tools
+
+### [Claim-Preservation Contract](../../templates/claim-preservation-contract.md)
+
+Use after the substantive argument is sufficiently mature to state what is authorised, prohibited, qualified and frozen during revision.
+
+### [Evidence Ledger](../../templates/evidence-ledger.md)
+
+Use to connect substantive paragraphs or claims to current supporting research objects.
+
+### [Post-Revision Sufficiency Audit](../../templates/post-revision-sufficiency-audit.md)
+
+Use after major compression, restructuring or AI-assisted rewriting to check that economy has not removed evidence, qualifications or conceptual distinctions needed to understand the contribution.
+
+## Release tool
 
 ### [Public Release Screening Checklist](../../templates/public-release-screening-checklist.md)
 

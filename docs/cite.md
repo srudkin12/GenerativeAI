@@ -9,9 +9,23 @@ title: Cite
 
 Until a DOI-bearing release exists, use:
 
-> Rudkin, Simon. *AI-Assisted Social Science Research: A Reason-Provenance Resource and Worked Case Study*. Version 0.1.0 (development). Department of Social Statistics, University of Manchester.
+> Rudkin, Simon. *AI-Assisted Social Science Research: A Reason-Provenance Resource and Worked Case Study*. Version 0.3.0 (development). Department of Social Statistics, University of Manchester.
 
 A permanent DOI should replace the development citation after the first archived public release.
+
+## Academic Writing Filter
+
+When using the manuscript-governance artefact itself, cite it separately:
+
+> Rudkin, S. (2026). *Academic Writing Filter* (October 2026 release).
+
+Current public project page: `https://sites.google.com/view/simonrudkin/ai`
+
+## Working paper
+
+> Rudkin, S. (2026). *From Writing Advice to Manuscript Governance: A Constrained-Transformation Framework for Academic Revision*. Working paper.
+
+Update this entry if the working paper receives a repository record, DOI or publication.
 
 ## GitHub citation
 
@@ -26,7 +40,7 @@ At each substantive public release:
 1. create a version tag in GitHub;
 2. create a clean release archive;
 3. deposit that archive in Zenodo manually;
-4. choose the Zenodo resource type that best describes the public object — likely **Lesson** for the social-science training resource, or **Other** if the release is framed as a broader scholarly project archive;
+4. choose the Zenodo resource type that best describes the public object;
 5. record Simon Rudkin as creator with the Department of Social Statistics, University of Manchester affiliation;
 6. add ORCID if desired;
 7. publish the Zenodo record and obtain the DOI;

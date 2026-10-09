@@ -5,61 +5,60 @@
 **Simon Rudkin**  
 Department of Social Statistics, University of Manchester
 
-This repository is a social-science-facing resource about the use of generative AI in a real research workflow. It is organised around a documented PISA research project, but its purpose is broader than PISA and broader than any single AI system.
+This repository is a social-science-facing resource about the use of generative AI in a real research workflow. It is organised around a documented PISA research project and a separate Academic Writing Filter project, but its purpose is broader than either.
 
-The central question is:
+The practical question is:
 
-> **How can social scientists use generative AI while retaining an evidentially defensible account of how consequential research judgements were made?**
+> **How can social scientists use generative AI across a research project while retaining an evidentially defensible account of consequential judgement and preventing later revision from silently changing the authorised claim?**
 
-The resource focuses on research practice rather than code. It shows how questions were proposed, analytical specifications were governed, generated analyses were separated from empirical evidence, preferred methodological claims were challenged, an initially plausible inference was withdrawn, and later reflection on the process generated a reason-provenance problem.
+The project now has three linked public-facing components:
+
+1. **Seminar** — understand the architecture through worked research episodes.
+2. **Repository** — repeat the method using protocols and templates.
+3. **Workshops** — practise the method on participants' own research.
 
 ## Start here
 
-- [What this resource is](docs/about.md)
-- [The research journey](docs/research-journey.md)
-- [Reason provenance in plain social-science language](docs/reason-provenance.md)
+- [15-minute quick start](docs/quick-start.md)
+- [Ten-step practical research protocol](docs/practical-research-protocol.md)
+- [Programme overview](docs/programme-overview.md)
+- [Seminar architecture v0.3](docs/seminar/seminar-architecture-v0_3.md)
 - [Seven worked cases](docs/worked-cases/index.md)
+- [Reason provenance](docs/reason-provenance.md)
+- [Manuscript governance and the Academic Writing Filter](docs/manuscript-governance/index.md)
+- [Three-workshop pathway](docs/workshops/index.md)
 - [Reusable researcher tools](docs/tools/index.md)
-- [Evidence-status rules](docs/evidence-status.md)
-- [Related manuscript projects](docs/publications.md)
 - [How to cite this resource](docs/cite.md)
 
-## Seven worked cases
+## Three-workshop pathway
 
-1. [When AI proposes a consequential research question](docs/worked-cases/01-moving-benchmark-question.md)
-2. [Human contribution as specification, constraint and refusal](docs/worked-cases/02-human-governance.md)
-3. [Generated analysis is not empirical evidence](docs/worked-cases/03-code-is-not-evidence.md)
-4. [When evidence makes the preferred method claim smaller](docs/worked-cases/04-evidence-narrows-method-claim.md)
-5. [A plausible number with an unwarranted inference](docs/worked-cases/05-plausible-number-wrong-inference.md)
-6. [Retrospective storytelling and the reason-provenance problem](docs/worked-cases/06-retrospective-storytelling.md)
-7. [Direct engagement with the finished scholarly object](docs/worked-cases/07-finished-scholarly-object.md)
+### Workshop 1 — Build the workflow
 
-## Reusable templates
+Participants leave with an AI-Assisted Research Charter and first Decision Log.
 
-The [`templates/`](templates/) directory contains lightweight records that can be copied into another research project:
+### Workshop 2 — Challenge the research
 
-- Reason-Provenance Record
-- AI-Assisted Research Decision Log
-- Claim Challenge Record
-- Inference Revision Record
-- Researcher–AI Contribution Map
-- Public Release Screening Checklist
+Participants leave with a Claim Challenge Record and, where needed, an Inference Revision Record.
 
-These templates are designed for selective, claim-relevant documentation. They are **not** a recommendation to record every prompt, keystroke or conversational exchange.
+### Workshop 3 — From evidence to manuscript
+
+Participants leave with a Claim-Preservation Contract, Evidence Ledger and Post-Revision Sufficiency Audit.
 
 ## Important boundaries
 
-This is a worked case study and methodological resource, not evidence that generative AI is inherently beneficial or harmful to scholarship. Clearer attribution does not establish that a particular division of labour is socially, pedagogically or institutionally desirable.
+This resource is not evidence that generative AI is inherently beneficial or harmful to scholarship.
 
 The PISA project helped generate and illustrate the reason-provenance problem. It does **not** empirically validate the conceptual framework.
 
-No raw private chat logs, confidential review materials or unreleased internal evidence dossiers are included in this starter release.
+The Academic Writing Filter is an inspectable manuscript-governance implementation. The present project does **not** claim that it improves writing quality, publication probability, reviewer agreement or writing speed.
+
+Generated text, code or interpretation is a research artefact. It becomes eligible to support a research claim only after the verification appropriate to that claim and research design.
+
+No raw private chat logs, confidential review materials or unreleased internal evidence dossiers are included in this release.
 
 ## Repository status
 
-**v0.1.0 — development starter**
-
-The repository is being prepared alongside a Department of Social Statistics seminar at the University of Manchester. Public-release material should pass the repository's [release screening](docs/public-release-policy.md) before publication.
+**v0.3.0 — seminar–resource–workshop integration release**
 
 ## Citation
 

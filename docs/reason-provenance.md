@@ -7,7 +7,7 @@ title: Reason provenance
 
 Research transparency often asks **what happened**. Reason provenance asks a narrower additional question:
 
-> **What evidence supports a claim about why a consequential research move occurred, who or what contributed to it, and how it changed the research trajectory?**
+> **What evidence supports a claim about how a consequential research move entered the project, who or what contributed to it, and how it changed the research trajectory?**
 
 The aim is not to reconstruct every mental state. The aim is to make **bounded claims about contribution** proportionate to the evidence available.
 
@@ -68,3 +68,11 @@ Document the decisions that would materially change:
 - the attribution of intellectual contribution.
 
 The templates in this repository are designed around those consequential points.
+
+## Reason provenance is not manuscript governance
+
+Reason provenance concerns evidence for claims about **contribution and trajectory**.
+
+[Manuscript governance](manuscript-governance/index.md) concerns whether a proposed textual revision **preserves the authorised research claim**.
+
+A revision may be perfectly attributable yet still substantively inadmissible. Conversely, a permissible revision may not require a detailed contribution record unless attribution itself matters.

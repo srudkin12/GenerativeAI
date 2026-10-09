@@ -5,7 +5,7 @@ title: Public release policy
 
 # Public release policy
 
-This repository is intended to become a public scholarly resource, but the underlying research archive was not created on the assumption that every internal artefact would be published.
+This repository is intended to become a public scholarly resource, but the underlying research archives were not created on the assumption that every internal artefact would be published.
 
 Public release is therefore selective.
 
@@ -17,7 +17,8 @@ Public release is therefore selective.
 - verified quotations with clear source notes;
 - public-source links;
 - publication metadata once public;
-- seminar material after a separate circulation review.
+- seminar material after a separate circulation review;
+- social-science-facing explanations of the Academic Writing Filter and manuscript-governance framework.
 
 ## Material not included by default
 
@@ -27,7 +28,9 @@ Public release is therefore selective.
 - confidential peer-review reports;
 - unreleased manuscript material not intended for circulation;
 - third-party images without clear reuse rights;
-- reconstructed screenshots presented as if they were originals.
+- reconstructed screenshots presented as if they were originals;
+- the canonical Academic Writing Filter file before its provenance/copyright and open-licence decision is complete;
+- internal Academic Writing Filter reviews, pilot evidence, historical snapshots or conversation-specific development records.
 
 ## Principle
 

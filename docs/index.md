@@ -7,20 +7,37 @@ title: Home
 
 ## A Reason-Provenance Resource and Worked Case Study
 
-This site is designed for social scientists who want a concrete account of what AI-assisted research can look like when research judgement, empirical verification and evidential provenance remain visible.
+This site is designed for social scientists who want to use generative AI as part of serious research while keeping consequential judgement, verification, claim boundaries and contribution provenance visible.
 
-Rather than presenting a catalogue of prompts or code, the resource follows consequential research decisions through a documented PISA project.
+The resource grew from a documented PISA research project and a separate Academic Writing Filter project.
 
-### Explore the resource
+### The practical question
 
-- [The research journey](research-journey.md)
-- [Seven worked cases](worked-cases/index.md)
+> **How can I use generative AI across a research project without confusing proposal generation with evidence, fluent interpretation with valid inference, or better prose with a stronger authorised claim?**
+
+### Start here
+
+- [15-minute quick start](quick-start.md)
+- [Ten-step practical research protocol](practical-research-protocol.md)
+- [Integrated workflow architecture](workflow-architecture.md)
+- [Seven worked research-process cases](worked-cases/index.md)
 - [Reason provenance](reason-provenance.md)
+- [Manuscript governance and the Academic Writing Filter](manuscript-governance/index.md)
+- [Three-workshop pathway](workshops/index.md)
 - [Researcher tools](tools/index.md)
-- [Evidence-status rules](evidence-status.md)
-- [Related manuscript projects](publications.md)
+- [Programme overview](programme-overview.md)
 - [How to cite](cite.md)
 
-### Central principle
+## Two governance problems
 
-**Generated text, generated code and generated interpretation are research artefacts. They become evidence only through the evidential procedures appropriate to the claim being made.**
+**Reason provenance** concerns evidence for bounded claims about how consequential research judgements entered and changed the project.
+
+**Manuscript governance** concerns the admissibility of later revisions once evidence and claim boundaries have been established.
+
+## Three central principles
+
+**Start with a substantive research problem, not with AI.**
+
+**Generated artefacts become eligible to support claims only after design-appropriate verification.**
+
+**Generative AI may transform presentation; it must not silently transform the authorised research claim.**
