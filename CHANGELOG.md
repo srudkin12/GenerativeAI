@@ -1,5 +1,16 @@
 # Changelog
 
+## v0.3.8 — static stylesheet recovery
+
+### Fixed
+
+- Removed dependence on the custom Sass/Minima stylesheet pipeline for the public visual layer.
+- Added a directly served `assets/site.css` stylesheet.
+- Added an explicit HTML head linking to the static stylesheet.
+- Added explicit `url` and `baseurl` settings for the GitHub project site.
+- Added a simple custom footer so the page chrome no longer depends on Minima markup assumptions.
+- Preserved the v0.3.7 masthead, navigation and landing-page information architecture.
+
 ## v0.3.7 — masthead and home-page redesign
 
 ### Changed

@@ -2,6 +2,8 @@ title: "AI-Assisted Social Science Research"
 description: "Methods, Governance and Reason Provenance"
 author_name: "Simon Rudkin"
 author_affiliation: "Department of Social Statistics, University of Manchester"
+url: "https://srudkin12.github.io"
+baseurl: "/GenerativeAI"
 theme: minima
 header_pages:
   - quick-start.md
