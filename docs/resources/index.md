@@ -83,3 +83,12 @@ A useful minimum sequence is:
 **Research Charter → Decision Log → Claim Challenge Record → Claim-Preservation Contract → Release Screening Checklist**
 
 Add the provenance, inference-revision and evidence-ledger resources when the research problem makes them useful.
+
+---
+
+## See the resources completed
+
+A [completed PISA example set](examples/pisa/index.html) shows how the records can be used in one research process.
+
+The completed set is an exemplar rather than a required format for other projects.
+

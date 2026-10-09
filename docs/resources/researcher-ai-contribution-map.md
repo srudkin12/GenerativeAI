@@ -30,3 +30,9 @@ Ask:
 
 Clearer attribution does not establish that the observed division of labour is desirable.
 
+---
+
+## Completed example
+
+[See the completed PISA example](examples/pisa/researcher-ai-contribution-map.html).
+

@@ -54,3 +54,9 @@ Which decisions would materially change the research trajectory and therefore de
 
 When must the project return to substantive/analytical judgement rather than accept an AI-generated solution?
 
+---
+
+## Completed example
+
+[See the completed PISA example](examples/pisa/ai-assisted-research-charter.html).
+

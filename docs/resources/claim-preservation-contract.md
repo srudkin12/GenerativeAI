@@ -73,3 +73,9 @@ Presentation may change only within the space permitted by the verified evidence
 
 Any proposed revision that would require a stronger claim, new evidence or substantive reinterpretation must be returned to the appropriate research stage rather than repaired rhetorically.
 
+---
+
+## Completed example
+
+[See the completed PISA example](examples/pisa/claim-preservation-contract.html).
+

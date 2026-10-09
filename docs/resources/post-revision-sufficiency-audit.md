@@ -51,3 +51,9 @@ For every failure, classify it:
 
 A Layer A or B failure must not be repaired by rhetorical adjustment alone.
 
+---
+
+## Completed example
+
+[See the completed PISA example](examples/pisa/post-revision-sufficiency-audit.html).
+

@@ -5,7 +5,7 @@ authors:
   - family-names: "Rudkin"
     given-names: "Simon"
     affiliation: "Department of Social Statistics, University of Manchester"
-version: "0.3.4"
+version: "0.3.5"
 abstract: >-
   A practical social-science resource on generative-AI-assisted research. The
   resource connects proposal generation, verification, adversarial challenge,

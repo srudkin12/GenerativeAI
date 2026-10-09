@@ -53,3 +53,9 @@ Write the strongest claim that survives the challenge.
 
 What remains unresolved?
 
+---
+
+## Completed example
+
+[See the completed PISA example](examples/pisa/claim-challenge-record.html).
+

@@ -48,3 +48,9 @@ Use before publishing process evidence, worked cases, slides or archival materia
 - [ ] Licence and third-party rights statements are correct.
 - [ ] DOI has been added after archival deposit, if applicable.
 
+---
+
+## Completed example
+
+[See the completed PISA example](examples/pisa/public-release-screening-checklist.html).
+

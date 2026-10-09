@@ -64,3 +64,9 @@ List the empirical output, source, methodological argument or inspection result 
 
 What contribution claim can be made safely? What cannot be established?
 
+---
+
+## Completed example
+
+[See the completed PISA example](examples/pisa/ai-assisted-research-decision-log.html).
+

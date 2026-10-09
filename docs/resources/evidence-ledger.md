@@ -38,3 +38,9 @@ Use the category that actually licenses the proposition:
 - **Return to claim authorisation** — interpretation or boundary requires substantive reconsideration.
 - **Return to analysis** — supporting evidence or analysis must change.
 
+---
+
+## Completed example
+
+[See the completed PISA example](examples/pisa/evidence-ledger.html).
+

@@ -52,3 +52,9 @@ Paste or summarise the change to the claim.
 
 Who or what proposed the original interpretation, identified the problem, evaluated the correction and integrated the revised claim?
 
+---
+
+## Completed example
+
+[See the completed PISA example](examples/pisa/inference-revision-record.html).
+
