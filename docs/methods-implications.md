@@ -128,3 +128,10 @@ Transfer requires design-appropriate evidence standards, inferential boundaries 
 The overall change is simple:
 
 **Treat generative AI as a source of proposals and transformations inside a governed research process, not as an authority whose output carries the same status at every stage.**
+
+---
+
+## Use the method critically
+
+The same governance mechanisms can create their own problems when followed mechanically. See [Risks & Failure Modes](risks-failure-modes.html) for delegation creep, novelty erosion, salience substitution, over-correction and other protocol-induced risks.
+

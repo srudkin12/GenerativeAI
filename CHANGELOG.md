@@ -1,5 +1,18 @@
 # Changelog
 
+## v0.3.9 — risks and failure modes
+
+### Added
+
+- Added a **Risks & Failure Modes** tab to counter mechanical use of the research protocol.
+- Added explicit treatment of delegation creep and nominal human monitoring.
+- Added novelty erosion / convergence pressure as a risk of repeated AI-assisted and adversarial revision.
+- Added TDABM as an example of novelty being written out through repeated revision.
+- Added **salience substitution**: fluent writing can over-emphasise the easiest concept to narrate, such as overlap, while displacing attention from the primary methodological object, such as the balls in TDABM.
+- Added risks from simulated-review optimisation, model consensus, premature claim freezing, provenance bureaucracy and disciplinary homogenisation.
+- Added a five-question "protocol for resisting the protocol".
+- Added warning links from the protocol, Methods & Implications and the home page.
+
 ## v0.3.8 — static stylesheet recovery
 
 ### Fixed

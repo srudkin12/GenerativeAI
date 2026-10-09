@@ -9,6 +9,7 @@ header_pages:
   - quick-start.md
   - practical-research-protocol.md
   - methods-implications.md
+  - risks-failure-modes.md
   - worked-cases/index.md
   - resources/index.md
   - cite.md

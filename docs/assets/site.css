@@ -467,3 +467,17 @@ a:focus {
     text-align: left;
   }
 }
+
+
+/* Risk-page emphasis */
+.page-content .risk-rule {
+  margin: 28px 0;
+  padding: 18px 20px;
+  background: #fff8f2;
+  border-left: 4px solid #a4582b;
+  border-radius: 3px;
+}
+
+.page-content .risk-rule strong {
+  color: #713817;
+}

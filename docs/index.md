@@ -82,3 +82,12 @@ research judgements entered and changed a research process.
 evidence and inferential boundaries have been established.
 
 The two problems connect, but they are not the same.
+
+---
+
+## Before applying the protocol mechanically
+
+A governed workflow can still produce conventional, weak or misplaced research if oversight becomes ceremonial or repeated revision writes out the novelty.
+
+[Read the risks and failure modes →](risks-failure-modes.html)
+

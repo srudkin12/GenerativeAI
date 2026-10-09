@@ -5,6 +5,10 @@ title: Research Protocol
 
 # Ten-step protocol for Generative-AI-assisted social-science research
 
+
+> **Do not use this protocol mechanically.** The workflow can itself create failure modes, including delegation creep, novelty erosion, salience substitution and performative oversight. Read [Risks & Failure Modes](risks-failure-modes.html) alongside the protocol.
+
+
 This protocol is the practical takeaway from the seminar.
 
 It is not a universal recipe and it does not replace disciplinary or methodological expertise. It is a compact governance structure for projects in which generative AI contributes to consequential research activity.
