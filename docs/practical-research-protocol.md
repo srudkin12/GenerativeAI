@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ten-step research protocol
+title: Research Protocol
 ---
 
 # Ten-step protocol for Generative-AI-assisted social-science research

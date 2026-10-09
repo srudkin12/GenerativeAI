@@ -1,0 +1,40 @@
+---
+---
+
+@import "minima";
+
+@media screen and (min-width: 900px) {
+  .site-header .wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1.25rem;
+  }
+
+  .site-title {
+    float: none;
+    font-size: 22px;
+    white-space: nowrap;
+  }
+
+  .site-nav {
+    float: none;
+    position: static;
+    line-height: 54px;
+  }
+
+  .site-nav .trigger {
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+  }
+
+  .site-nav .page-link {
+    margin-left: 15px;
+    white-space: nowrap;
+  }
+
+  .site-nav .page-link:not(:last-child) {
+    margin-right: 0;
+  }
+}

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Worked cases
+title: Worked Cases
 ---
 
 # Seven worked cases

@@ -15,15 +15,7 @@ Department of Social Statistics, University of Manchester.
 
 The working seminar deck is **not included** in this repository because the current version was prepared as an internal seminar object and has not yet passed a separate public-circulation review.
 
-## v0.2 manuscript-governance integration
-
-The Academic Writing Filter adds a new question to the seminar:
-
-> **Once the empirical evidence has been challenged and the defensible claim is known, how do we stop later rewriting from silently changing that claim?**
-
-The recommended integration uses **two main slides plus one backup example**, rather than a detached writing-tips section.
-
-See [Seminar integration notes](awf-integration.md).
+The public repository instead provides the practical research protocol, worked cases, reason-provenance material, manuscript-governance material and reusable templates that support follow-up use after the seminar.
 
 ## Possible later public release
 

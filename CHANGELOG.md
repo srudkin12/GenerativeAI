@@ -1,28 +1,24 @@
 # Changelog
 
-## v0.3.0 — seminar–resource–workshop integration
+## v0.3.1 — public navigation and scope correction
+
+### Changed
+
+- Simplified the GitHub Pages header to a short public route:
+  **Start Here → Research Protocol → Worked Cases → Researcher Tools → Cite**.
+- Added desktop navigation styling while preserving the Minima mobile menu.
+- Removed delivery-format planning from the public repository.
+- Kept the ten-step protocol, worked cases, manuscript-governance material and reusable templates public.
+- Reframed the public resource around self-directed use following the seminar.
+
+## v0.3.0 — integrated practical research resource
 
 ### Added
 
-- Reframed the project as a linked **seminar → repository → workshop** programme.
 - Added a ten-step practical protocol for Generative-AI-assisted social-science research.
-- Added a five-movement 50-minute seminar architecture keeping CAIS as the conceptual backbone while making PISA episodes the teaching mechanism.
-- Added a three-workshop pathway:
-  1. Build the workflow
-  2. Challenge the research
-  3. From evidence to manuscript
 - Added an AI-Assisted Research Charter template.
-- Added detailed workshop plans, exercises, participant outputs and PISA teaching episodes.
-- Added a programme overview explaining how the three public-facing components relate.
-- Revised the quick-start pathway so attendees can move directly from seminar concepts to a practical next step.
-
-### Programme logic
-
-The seminar makes the architecture intelligible.
-
-The repository makes the method repeatable.
-
-The workshops make the method practised.
+- Connected the documented PISA episodes to the reason-provenance and manuscript-governance architecture.
+- Revised the quick-start pathway so readers can move directly from the research concepts to practical tools.
 
 ## v0.2.0 — integrated manuscript-governance release
 

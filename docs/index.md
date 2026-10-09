@@ -15,18 +15,16 @@ The resource grew from a documented PISA research project and a separate Academi
 
 > **How can I use generative AI across a research project without confusing proposal generation with evidence, fluent interpretation with valid inference, or better prose with a stronger authorised claim?**
 
-### Start here
+### A practical route through the resource
 
-- [15-minute quick start](quick-start.md)
-- [Ten-step practical research protocol](practical-research-protocol.md)
-- [Integrated workflow architecture](workflow-architecture.md)
-- [Seven worked research-process cases](worked-cases/index.md)
-- [Reason provenance](reason-provenance.md)
-- [Manuscript governance and the Academic Writing Filter](manuscript-governance/index.md)
-- [Three-workshop pathway](workshops/index.md)
-- [Researcher tools](tools/index.md)
-- [Programme overview](programme-overview.md)
-- [How to cite](cite.md)
+- [Start Here](quick-start.md) — a 15-minute route for a first visit.
+- [Research Protocol](practical-research-protocol.md) — the ten-step transferable method.
+- [Worked Cases](worked-cases/index.md) — seven contrasting episodes from the PISA project.
+- [Researcher Tools](tools/index.md) — reusable records for consequential decisions, challenge, claim preservation and release.
+- [Reason provenance](reason-provenance.md) — evidence for bounded claims about contribution and research trajectory.
+- [Manuscript governance](manuscript-governance/index.md) — preserving authorised claims through revision.
+- [Integrated workflow architecture](workflow-architecture.md) — how evidence production, claim authorisation, manuscript governance and release audit fit together.
+- [Cite](cite.md) — citation guidance and archival plans.
 
 ## Two governance problems
 

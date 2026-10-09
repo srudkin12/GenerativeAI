@@ -11,38 +11,18 @@ The practical question is:
 
 > **How can social scientists use generative AI across a research project while retaining an evidentially defensible account of consequential judgement and preventing later revision from silently changing the authorised claim?**
 
-The project now has three linked public-facing components:
-
-1. **Seminar** — understand the architecture through worked research episodes.
-2. **Repository** — repeat the method using protocols and templates.
-3. **Workshops** — practise the method on participants' own research.
+The resource is designed to support practical self-use. It combines a ten-step research protocol, worked research episodes, reason-provenance concepts, manuscript-governance material and reusable research templates.
 
 ## Start here
 
-- [15-minute quick start](docs/quick-start.md)
+- [Start Here: a 15-minute route](docs/quick-start.md)
 - [Ten-step practical research protocol](docs/practical-research-protocol.md)
-- [Programme overview](docs/programme-overview.md)
-- [Seminar architecture v0.3](docs/seminar/seminar-architecture-v0_3.md)
 - [Seven worked cases](docs/worked-cases/index.md)
+- [Reusable researcher tools](docs/tools/index.md)
 - [Reason provenance](docs/reason-provenance.md)
 - [Manuscript governance and the Academic Writing Filter](docs/manuscript-governance/index.md)
-- [Three-workshop pathway](docs/workshops/index.md)
-- [Reusable researcher tools](docs/tools/index.md)
+- [Integrated workflow architecture](docs/workflow-architecture.md)
 - [How to cite this resource](docs/cite.md)
-
-## Three-workshop pathway
-
-### Workshop 1 — Build the workflow
-
-Participants leave with an AI-Assisted Research Charter and first Decision Log.
-
-### Workshop 2 — Challenge the research
-
-Participants leave with a Claim Challenge Record and, where needed, an Inference Revision Record.
-
-### Workshop 3 — From evidence to manuscript
-
-Participants leave with a Claim-Preservation Contract, Evidence Ledger and Post-Revision Sufficiency Audit.
 
 ## Important boundaries
 
@@ -58,7 +38,9 @@ No raw private chat logs, confidential review materials or unreleased internal e
 
 ## Repository status
 
-**v0.3.0 — seminar–resource–workshop integration release**
+**v0.3.1 — public navigation and scope correction**
+
+The public repository focuses on the seminar-facing research method, worked cases and reusable tools. Additional delivery formats are being developed separately and are not part of the current public release.
 
 ## Citation
 

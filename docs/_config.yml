@@ -4,11 +4,6 @@ theme: minima
 header_pages:
   - quick-start.md
   - practical-research-protocol.md
-  - workflow-architecture.md
   - worked-cases/index.md
-  - reason-provenance.md
-  - manuscript-governance/index.md
-  - workshops/index.md
   - tools/index.md
-  - publications.md
   - cite.md

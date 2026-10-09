@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 15-minute quick start
+title: Start Here
 ---
 
 # A 15-minute route through the resource
@@ -34,22 +34,15 @@ Reason provenance asks what evidence supports a contribution claim.
 
 Manuscript governance asks whether a later revision still expresses the research claim that the evidence authorises.
 
-## Minutes 13–15: choose your next step
+## Minutes 13–15: choose a tool for your own project
 
-If you are starting a project:
+If you are starting a project, use the [AI-Assisted Research Charter](../templates/ai-assisted-research-charter.md).
 
-- use the [AI-Assisted Research Charter](../templates/ai-assisted-research-charter.md);
-- consider [Workshop 1](workshops/workshop-1-build-the-workflow.md).
+If you already have a result or claim, use the [Claim Challenge Record](../templates/claim-challenge-record.md).
 
-If you already have a result or claim:
+If you are drafting or revising, use the [Claim-Preservation Contract](../templates/claim-preservation-contract.md).
 
-- use the [Claim Challenge Record](../templates/claim-challenge-record.md);
-- consider [Workshop 2](workshops/workshop-2-challenge-the-research.md).
-
-If you are drafting or revising:
-
-- use the [Claim-Preservation Contract](../templates/claim-preservation-contract.md);
-- consider [Workshop 3](workshops/workshop-3-evidence-to-manuscript.md).
+The full collection is available under [Researcher Tools](tools/index.md).
 
 ## A note for different social-science traditions
 

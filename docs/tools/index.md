@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Researcher tools
+title: Researcher Tools
 ---
 
 # Reusable researcher tools

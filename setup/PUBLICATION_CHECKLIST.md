@@ -5,8 +5,9 @@
 - [ ] README reflects the final public scope.
 - [ ] Seven worked research-process cases have been read as social-science prose rather than project notes.
 - [ ] Manuscript-governance pages are understandable without prior knowledge of the Academic Writing Filter project.
+- [ ] Public navigation exposes only material intended for current public release.
+- [ ] Internal delivery-format planning is not present in the public repository.
 - [ ] Ten-step protocol is understandable without prior knowledge of PISA.
-- [ ] Workshop pages lead to concrete participant outputs rather than discussion alone.
 - [ ] Direct quotations, if any, are verified against authoritative originals.
 - [ ] No reconstructed wording appears as a quotation.
 - [ ] No raw internal chat logs are included accidentally.

@@ -5,13 +5,12 @@ authors:
   - family-names: "Rudkin"
     given-names: "Simon"
     affiliation: "Department of Social Statistics, University of Manchester"
-version: "0.3.0"
+version: "0.3.1"
 abstract: >-
-  A social-science-facing seminar, resource and workshop programme on
-  generative-AI-assisted research. The resource connects reason provenance,
-  empirical verification, adversarial challenge, claim authorisation and
-  manuscript governance using a documented PISA project and the Academic
-  Writing Filter.
+  A social-science-facing resource on generative-AI-assisted research. The
+  resource connects reason provenance, empirical verification, adversarial
+  challenge, claim authorisation and manuscript governance using a documented
+  PISA project and the Academic Writing Filter.
 keywords:
   - "social science"
   - "generative AI"
