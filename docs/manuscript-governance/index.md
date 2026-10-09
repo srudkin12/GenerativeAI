@@ -75,7 +75,7 @@ The most useful interface between research and writing is a project-specific rec
 
 Verified facts and mathematical/statistical correctness remain separately protected as evidence rather than being treated as stylistic preferences.
 
-See the [worked example](case-study-claim-preservation-example.md) and the reusable [Claim-Preservation Contract template](../../templates/claim-preservation-contract.md).
+See the [worked example](case-study-claim-preservation-example.md) and the reusable [Claim-Preservation Contract template](../resources/claim-preservation-contract.html).
 
 ## The Academic Writing Filter
 

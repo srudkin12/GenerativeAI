@@ -26,7 +26,7 @@ Selected worked examples are drawn from a PISA research project.
 - [Research Protocol](practical-research-protocol.md) — the ten-step transferable method.
 - [Methods & Implications](methods-implications.md) — what the approach changes about research practice.
 - [Worked Examples](worked-cases/index.md) — seven episodes showing the method under pressure.
-- [Researcher Tools](tools/index.md) — reusable records for specification, challenge, claim preservation and release.
+- [Resources](resources/index.md) — reusable records for specification, challenge, claim preservation and release.
 - [Reason provenance](reason-provenance.md) — evidence for bounded claims about contribution and research trajectory.
 - [Manuscript governance](manuscript-governance/index.md) — preserving authorised claims through revision.
 - [Integrated workflow architecture](workflow-architecture.md) — how evidence production, claim authorisation, manuscript governance and release audit fit together.

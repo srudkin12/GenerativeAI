@@ -11,7 +11,7 @@ No knowledge of the worked application is required.
 
 Read the [ten-step practical research protocol](practical-research-protocol.md).
 
-It takes a project from substantive problem through proposal generation, specification, verification, challenge, claim authorisation, manuscript governance, final inspection and bounded provenance.
+It takes a research process from substantive problem through proposal generation, specification, verification, challenge, claim authorisation, manuscript governance, final inspection and bounded provenance.
 
 ## Minutes 5–7: understand the implications
 
@@ -19,7 +19,7 @@ Read [Methods & Implications](methods-implications.md).
 
 The central shift is from asking **whether AI was used** to asking **what research function it performed, what authority that function carried, and what evidence justified the next step**.
 
-## Minutes 8–11: read three contrasting worked episodes
+## Minutes 8–11: read three contrasting worked examples
 
 Start with:
 
@@ -40,15 +40,15 @@ Reason provenance asks what evidence supports a contribution claim.
 
 Manuscript governance asks whether a later revision still expresses the research claim that the evidence authorises.
 
-## Minutes 14–15: choose a tool for your own project
+## Minutes 14–15: choose a resource for your own research
 
-If you are starting a project, use the [AI-Assisted Research Charter](../templates/ai-assisted-research-charter.md).
+If you are starting a project, use the [AI-Assisted Research Charter](resources/ai-assisted-research-charter.html).
 
-If you already have a result or claim, use the [Claim Challenge Record](../templates/claim-challenge-record.md).
+If you already have a result or claim, use the [Claim Challenge Record](resources/claim-challenge-record.html).
 
-If you are drafting or revising, use the [Claim-Preservation Contract](../templates/claim-preservation-contract.md).
+If you are drafting or revising, use the [Claim-Preservation Contract](resources/claim-preservation-contract.html).
 
-The full collection is available under [Researcher Tools](tools/index.md).
+The full collection is available under [Resources](resources/index.html).
 
 ## Across research traditions
 

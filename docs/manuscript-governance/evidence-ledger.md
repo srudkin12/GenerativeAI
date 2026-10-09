@@ -40,4 +40,4 @@ A robust workflow should:
 
 ## Template
 
-Use the downloadable [Evidence Ledger template](../../templates/evidence-ledger.md).
+Use the downloadable [Evidence Ledger template](../resources/evidence-ledger.html).

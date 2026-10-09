@@ -1,22 +1,40 @@
 # Changelog
 
+## v0.3.4 — public resources release
+
+### Fixed
+
+- Moved public copies of all reusable research templates inside the GitHub Pages `/docs` publishing root.
+- Added a first-class **Resources** section to the public navigation.
+- Repaired Pages links that previously pointed to repository-level `/templates` files and returned 404 errors.
+- Preserved the original repository-level `/templates` directory for GitHub users.
+- Kept the previous `/tools` page as a compatibility route to the new Resources section.
+
+### Added
+
+- Public pages for:
+  - AI-Assisted Research Charter
+  - AI-Assisted Research Decision Log
+  - Reason-Provenance Record
+  - Researcher–AI Contribution Map
+  - Claim Challenge Record
+  - Inference Revision Record
+  - Claim-Preservation Contract
+  - Evidence Ledger
+  - Post-Revision Sufficiency Audit
+  - Public Release Screening Checklist
+
 ## v0.3.3 — reader-first public framing
 
-### Changed
-
-- Removed development-history narration from the public-facing resource.
-- General pages now introduce the method and practical value directly.
-- PISA is mentioned on general pages only to identify the source of selected worked examples.
-- Removed wording about separate internal projects, transfers and handovers from first-time-reader pages.
-- Simplified Academic Writing Filter descriptions to explain what the artefact does rather than how it was developed.
-- Recast source documentation as compact provenance rather than project history.
+- Removed development-history narration from public-facing pages.
+- Limited PISA on general pages to identifying the source of selected worked examples.
+- Described the Academic Writing Filter through its methodological function.
 
 ## v0.3.2 — methods-first public framing
 
 - Reframed the public resource around transferable methods, governance and implications.
 - Added a dedicated **Methods & Implications** page.
 - Changed **Worked Cases** to **Worked Examples**.
-- Reframed the worked-example index around methodological problems.
 
 ## v0.3.1 — public navigation and scope correction
 

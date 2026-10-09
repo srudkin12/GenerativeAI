@@ -19,7 +19,7 @@ The resource focuses on transferable research methods and governance problems. S
 - [Ten-step practical research protocol](docs/practical-research-protocol.md)
 - [Methods and implications](docs/methods-implications.md)
 - [Seven worked research examples](docs/worked-cases/index.md)
-- [Reusable researcher tools](docs/tools/index.md)
+- [Reusable researcher resources](docs/resources/index.md)
 - [Reason provenance](docs/reason-provenance.md)
 - [Manuscript governance and the Academic Writing Filter](docs/manuscript-governance/index.md)
 - [Integrated workflow architecture](docs/workflow-architecture.md)
