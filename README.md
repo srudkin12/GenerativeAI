@@ -11,25 +11,23 @@ The central question is:
 
 > **How can generative AI contribute across a serious social-science research process without proposal generation being confused with evidence, fluent interpretation with valid inference, or improved prose with a stronger research claim?**
 
-The resource is organised around transferable research methods and governance problems rather than any one application. A documented educational-data project supplies the worked episodes, but the intended use is much broader: quantitative, qualitative, archival, computational and mixed-method social science.
+The resource focuses on transferable research methods and governance problems. Selected worked examples are drawn from a PISA research project.
 
 ## Start here
 
 - [Start Here: a 15-minute route](docs/quick-start.md)
 - [Ten-step practical research protocol](docs/practical-research-protocol.md)
 - [Methods and implications](docs/methods-implications.md)
-- [Seven worked research episodes](docs/worked-cases/index.md)
+- [Seven worked research examples](docs/worked-cases/index.md)
 - [Reusable researcher tools](docs/tools/index.md)
 - [Reason provenance](docs/reason-provenance.md)
 - [Manuscript governance and the Academic Writing Filter](docs/manuscript-governance/index.md)
 - [Integrated workflow architecture](docs/workflow-architecture.md)
 - [How to cite this resource](docs/cite.md)
 
-## What the worked case is for
+## What the worked examples are for
 
-The worked case is evidence for how the research process unfolded, not the substantive identity of the resource.
-
-It is used to show, in concrete form:
+The examples make the research method concrete. They show:
 
 - AI proposing a consequential question;
 - researcher contribution through specification, constraint and refusal;
@@ -39,28 +37,25 @@ It is used to show, in concrete form:
 - retrospective storytelling creating an attribution problem;
 - direct inspection of the finished scholarly object.
 
-Readers do not need prior knowledge of the application domain to use the method.
 
 ## Important boundaries
 
 This resource is not evidence that generative AI is inherently beneficial or harmful to scholarship.
 
-The worked case helped generate and illustrate the reason-provenance problem. It does **not** empirically validate the conceptual framework.
+Worked examples illustrate the governance problems; they do **not** validate the reason-provenance framework.
 
-The Academic Writing Filter is an inspectable manuscript-governance implementation. The present project does **not** claim that it improves writing quality, publication probability, reviewer agreement or writing speed.
+The Academic Writing Filter is an inspectable manuscript-governance implementation. No claim is made here that it improves writing quality, publication probability, reviewer agreement or writing speed.
 
-Generated text, code or interpretation is a research artefact. It becomes eligible to support a research claim only after the verification appropriate to that claim and research design.
+Generated text, code or interpretation is a research artefact. It becomes eligible to support a research claim only after verification appropriate to that claim and research design.
 
-No raw private chat logs, confidential review materials or unreleased internal evidence dossiers are included in this release.
+No raw private chat logs, confidential review materials or unreleased internal evidence dossiers are included.
 
 ## Repository status
 
-**v0.3.2 — methods-first public framing**
-
-The public resource foregrounds transferable methods, governance and implications. The application appears as a worked case study rather than the organising subject.
+**v0.3.3 — reader-first public framing**
 
 ## Citation
 
-A machine-readable [`CITATION.cff`](CITATION.cff) is included. A DOI should be added after the first public release has been deposited in a research repository.
+A machine-readable [`CITATION.cff`](CITATION.cff) is included. A DOI should be added after the first archived public release.
 
 See [How to cite](docs/cite.md).

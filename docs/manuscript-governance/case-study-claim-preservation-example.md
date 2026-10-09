@@ -45,4 +45,4 @@ The table shows how a claim-preservation contract can encode the **current autho
 
 It should not be read as evidence that a formal contract already existed at the moment the original empirical corrections were made.
 
-The contract is a governance device transferred from the separate Academic Writing Filter project and applied retrospectively to the mature claim boundary for illustration.
+The contract is applied retrospectively to the mature claim boundary for illustration.

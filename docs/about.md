@@ -5,35 +5,20 @@ title: About
 
 # About this resource
 
-Generative AI can participate in many parts of a social-science research process: proposing questions, finding candidate sources, drafting analytical code, suggesting robustness checks, challenging interpretations, reorganising manuscripts and helping researchers reflect on their own workflow.
+Generative AI can participate in many parts of a social-science research process: proposing questions, finding candidate sources, drafting analytical code, suggesting robustness checks, challenging interpretations, reorganising manuscripts and assisting reflection on research decisions.
 
-A list of possible capabilities tells us little about the harder methodological questions:
+A list of capabilities tells us little about the harder methodological questions:
 
 - which outputs may influence the evidence base;
-- which research decisions require explicit specification;
+- which decisions require explicit specification;
 - how preferred claims should respond to inconvenient evidence;
 - how inferential boundaries survive rewriting;
 - what evidence supports later claims about intellectual contribution.
 
-This resource therefore focuses on **research functions, governance boundaries and implications** rather than on a catalogue of AI capabilities.
+This resource therefore focuses on **research functions, governance boundaries and implications**.
 
-A separate Academic Writing Filter project develops a manuscript-governance framework concerned with one part of that process: how prose may be revised without silently changing the research argument.
+Selected worked examples are drawn from a PISA research project.
 
-## Worked case-study basis
-
-Seven episodes are drawn from a documented project analysing international educational data. The project began from a public PISA release and an existing researcher interest in ranking systems and multidimensional representations.
-
-The application is used because its archived development history contains contrasting episodes of:
-
-- productive AI origination;
-- researcher specification;
-- local verification;
-- comparator challenge;
-- inferential correction;
-- retrospective reconstruction;
-- final-object inspection.
-
-The case supplies evidence about the **research process**. Readers do not need an interest in education or PISA to use the methods.
 
 ## What this resource is for
 

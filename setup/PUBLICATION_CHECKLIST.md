@@ -3,8 +3,8 @@
 ## Content
 
 - [ ] README reflects the final public scope.
-- [ ] Seven worked research-process cases have been read as social-science prose rather than project notes.
-- [ ] Manuscript-governance pages are understandable without prior knowledge of the Academic Writing Filter project.
+- [ ] Seven worked research examples have been read as social-science prose rather than internal notes.
+- [ ] Manuscript-governance pages are understandable without prior knowledge of the Academic Writing Filter.
 - [ ] Public navigation exposes only material intended for current public release.
 - [ ] Internal delivery-format planning is not present in the public repository.
 - [ ] Ten-step protocol is understandable without prior knowledge of the worked application.

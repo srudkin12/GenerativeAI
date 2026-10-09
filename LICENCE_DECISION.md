@@ -6,7 +6,7 @@ Before the repository becomes public, select an explicit licence for the text an
 
 ## Academic Writing Filter boundary
 
-The canonical October 2026 Academic Writing Filter comes from a separate source project whose provenance/copyright review is not yet complete.
+The canonical October 2026 Academic Writing Filter is currently linked rather than reproduced in this repository.
 
 v0.2.0 therefore:
 
@@ -15,7 +15,7 @@ v0.2.0 therefore:
 - provides new case-study-facing templates and examples;
 - **does not copy the canonical filter into the repository or assign it a repository licence**.
 
-Any later decision to include the canonical filter should follow the source project's final rights and licensing decision.
+Any later decision to include the canonical filter should follow the rights and licensing information attached to the public artefact.
 
 ## Before v1.0
 

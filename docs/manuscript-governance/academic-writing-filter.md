@@ -5,7 +5,7 @@ title: Academic Writing Filter
 
 # Academic Writing Filter: a social-science overview
 
-The **Academic Writing Filter (AWF)** is an operational manuscript-governance artefact developed in a separate project.
+The **Academic Writing Filter (AWF)** is an operational manuscript-governance artefact.
 
 It should not be understood as a style checker or a set of thirteen equivalent writing preferences.
 
@@ -93,4 +93,4 @@ Rudkin, S. (2026). *From Writing Advice to Manuscript Governance: A Constrained-
 
 The canonical October 2026 filter is **not copied into this repository** in v0.2.0.
 
-Its source project states that an open licence should be attached only after the provenance/copyright review is complete. This repository therefore explains and links to the artefact without silently assigning it a broader licence.
+The canonical filter is linked rather than reproduced here. Any later inclusion should follow the licence and provenance information attached to the public artefact.

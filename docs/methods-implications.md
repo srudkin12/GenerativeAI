@@ -36,7 +36,7 @@ Verification depends on the design:
 - documented coding and interpretive procedures for qualitative analysis;
 - appropriate validation, triangulation or replication elsewhere.
 
-The boundary protects the project from treating fluency or executability as evidence.
+The boundary protects research from treating fluency or executability as evidence.
 
 ## 3. Researcher contribution includes constraint and refusal
 
@@ -111,9 +111,7 @@ It does not by itself decide what **should** happen.
 
 ## 9. The method is application-independent
 
-The worked episodes in this repository come from one longitudinal empirical project because that project generated unusually rich process evidence.
-
-The methodological architecture is intended to travel across:
+The architecture is intended to travel across:
 
 - quantitative social science;
 - qualitative analysis;
@@ -121,7 +119,7 @@ The methodological architecture is intended to travel across:
 - archival and documentary research;
 - mixed-method designs.
 
-Transfer requires project-specific evidence standards, inferential boundaries and disciplinary judgement rather than copying the application.
+Transfer requires design-appropriate evidence standards, inferential boundaries and disciplinary judgement.
 
 ---
 
@@ -130,5 +128,3 @@ Transfer requires project-specific evidence standards, inferential boundaries an
 The overall change is simple:
 
 **Treat generative AI as a source of proposals and transformations inside a governed research process, not as an authority whose output carries the same status at every stage.**
-
-That shift makes it possible to use AI extensively while still asking conventional scholarly questions about evidence, inference, responsibility and justification.

@@ -9,14 +9,16 @@ title: Home
 
 This site is for social scientists who want to use generative AI as part of serious research while keeping consequential judgement, verification, inferential boundaries and contribution provenance visible.
 
-The resource is **method first**. A documented empirical project supplies the worked examples, but the transferable questions are broader:
+The transferable questions are:
 
 - When is an AI contribution merely a proposal, and when can it enter the evidence base?
-- Which research decisions require explicit human specification or refusal?
+- Which research decisions require explicit specification or refusal?
 - What should happen when comparator or robustness evidence weakens the preferred story?
 - How should researchers distinguish a computed result from the inference attached to it?
 - How can later manuscript revision preserve the claim the evidence actually authorises?
 - What evidence supports later claims about who or what contributed to consequential intellectual moves?
+
+Selected worked examples are drawn from a PISA research project.
 
 ### A practical route through the resource
 
@@ -32,7 +34,7 @@ The resource is **method first**. A documented empirical project supplies the wo
 
 ## Two governance problems
 
-**Reason provenance** concerns evidence for bounded claims about how consequential research judgements entered and changed a project.
+**Reason provenance** concerns evidence for bounded claims about how consequential research judgements entered and changed a research process.
 
 **Manuscript governance** concerns the admissibility of later revisions once evidence and claim boundaries have been established.
 

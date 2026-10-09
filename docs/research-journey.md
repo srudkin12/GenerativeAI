@@ -1,23 +1,15 @@
 ---
 layout: default
-title: How the worked case developed
+title: Worked-example sequence
 ---
 
-# From public release to a reflexive research case
+# From research opportunity to reflexive research case
 
-The worked case began as **quick-response social-science research**, not as an experiment about AI.
+The worked examples show a sequence that can arise in AI-assisted research:
 
-A public data release created the substantive opportunity. The researcher brought an existing methodological programme and an interest in how rankings represent multidimensional social outcomes. Generative AI was then introduced as a research assistant and critic.
-
-The empirical application used PISA data, but the reason for retaining the case in this resource is the unusually rich sequence of documented research decisions.
-
-## The trajectory
-
-**Public release and debate**  
+**Substantive research opportunity**  
 ↓  
-**Researcher interest and prior methodological programme**  
-↓  
-**Rapid data acquisition and problem framing**  
+**Researcher knowledge and prior methodological interests**  
 ↓  
 **AI-assisted exploration and proposal generation**  
 ↓  
@@ -25,7 +17,7 @@ The empirical application used PISA data, but the reason for retaining the case 
 ↓  
 **Generated analytical artefacts**  
 ↓  
-**Local execution and archived handbacks**  
+**Verification and inspection**  
 ↓  
 **Comparator analysis and adversarial challenge**  
 ↓  
@@ -37,29 +29,8 @@ The empirical application used PISA data, but the reason for retaining the case 
 ↓  
 **Release audit and direct inspection**  
 ↓  
-**Publication-oriented empirical manuscript**  
-↓  
-**Reflection on contribution and attribution**  
-↓  
-**Reason-provenance conceptual work**
+**Reflection on contribution and attribution**
 
-The sequence matters. AI did not create the substantive project from nothing. Equally, the record does not support the opposite simplification that AI merely supplied clerical assistance.
+Selected examples are drawn from a PISA research project.
 
-Different research functions had different traceable configurations of contribution.
-
-## Why the case is useful
-
-The archive contains several kinds of consequential episode:
-
-- an AI-originated research question that the researcher adopted;
-- researcher-imposed constraints that materially changed the analytical object;
-- a strong separation between generated code and locally executed evidence;
-- comparator evidence that weakened the preferred methodological claim;
-- an initially plausible quantitative interpretation that was later withdrawn;
-- robustness checks that changed the language of the result;
-- a researcher-originated concern about retrospective storytelling that became part of the conceptual framework;
-- direct inspection of the finished scholarly object that still found problems.
-
-The Academic Writing Filter adds a complementary question: **once the research argument has been authorised, which revisions are permitted without changing it?**
-
-Together, the two strands make it possible to discuss intellectual contribution and manuscript transformation without collapsing either into a single percentage of "human" or "AI" authorship.
+The value of the sequence is methodological: different research functions have different evidential requirements and different configurations of human and AI contribution.

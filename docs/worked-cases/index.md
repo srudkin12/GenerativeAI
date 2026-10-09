@@ -3,22 +3,18 @@ layout: default
 title: Worked Examples
 ---
 
-# Seven worked research episodes
+# Seven worked research examples
 
-The examples are organised by **methodological problem**, not by application.
+Selected examples are drawn from a PISA research project. They are organised by **methodological problem**, not by application.
 
-All seven come from one documented longitudinal project. Using a single project keeps the provenance chain coherent while allowing the episodes to show different research functions under comparable conditions.
-
-You do not need prior knowledge of the application domain.
-
-Each case uses the same structure:
+Each example follows the same structure:
 
 **Research problem → consequential move → evidence → challenge → outcome → reason-provenance lesson → evidential boundary**
 
-## The episodes
+## The examples
 
 1. [When AI proposes a consequential research question](01-moving-benchmark-question.md)  
-   **Methodological issue:** useful origination inside a researcher-originated project.
+   **Methodological issue:** useful origination inside a researcher-originated research process.
 
 2. [Human contribution as specification, constraint and refusal](02-human-governance.md)  
    **Methodological issue:** contribution can be governance rather than novelty.
@@ -37,5 +33,3 @@ Each case uses the same structure:
 
 7. [Direct engagement with the finished scholarly object](07-finished-scholarly-object.md)  
    **Methodological issue:** process control does not remove the need to inspect the final object.
-
-The worked case comes from international educational data, including PISA. The application is intentionally secondary to the research-function lessons above.
