@@ -12,7 +12,7 @@ v0.2.0 therefore:
 
 - explains the manuscript-governance mechanism;
 - cites and links to the current public filter;
-- provides new PISA-facing templates and examples;
+- provides new case-study-facing templates and examples;
 - **does not copy the canonical filter into the repository or assign it a repository licence**.
 
 Any later decision to include the canonical filter should follow the source project's final rights and licensing decision.

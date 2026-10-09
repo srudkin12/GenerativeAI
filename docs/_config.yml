@@ -1,9 +1,10 @@
 title: "AI-Assisted Social Science Research"
-description: "A Reason-Provenance Resource and Worked Case Study"
+description: "Methods, Governance and Reason Provenance"
 theme: minima
 header_pages:
   - quick-start.md
   - practical-research-protocol.md
+  - methods-implications.md
   - worked-cases/index.md
   - tools/index.md
   - cite.md

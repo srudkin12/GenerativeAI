@@ -19,13 +19,13 @@ Use before publishing process evidence, worked cases, slides or archival materia
 
 ## Research claims
 
-- [ ] PISA is presented as a developmental illustration, not validation of the reason-provenance framework.
+- [ ] The worked application is presented as a developmental illustration, not validation of the reason-provenance framework.
 - [ ] Generated code/text is not described as verified evidence merely because it was generated.
 - [ ] Methodological claims do not exceed the comparator and robustness evidence.
 - [ ] Attribution claims are bounded to what the record can establish.
 - [ ] Attribution is kept separate from normative endorsement of the division of labour.
 - [ ] Academic Writing Filter material is not described as evidence of improved writing, publication probability, reviewer agreement or speed.
-- [ ] PISA claim-preservation examples are not described as proof that a formal claim contract existed during the original empirical episode.
+- [ ] Retrospective claim-preservation examples are not described as proof that a formal claim contract existed during the original empirical episode.
 
 ## Academic Writing Filter rights and provenance
 

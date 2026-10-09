@@ -27,7 +27,7 @@ Consider **Lesson** if the final object is primarily a reusable social-science t
 Consider **Other** if the release becomes a wider scholarly project archive.
 
 **Description**  
-A social-science-facing resource and worked case study on generative-AI-assisted research. The resource uses a documented PISA research workflow to examine question origination, researcher governance, the separation of generated analytical artefacts from empirical evidence, methodological challenge, claim revision, reason provenance and attribution ambiguity. It includes seven worked cases and reusable templates for research decision logging, claim challenge, inference revision and contribution mapping.
+A practical social-science resource on generative-AI-assisted research. The resource examines question origination, researcher governance, the separation of generated analytical artefacts from verified evidence, methodological challenge, claim revision, reason provenance and manuscript governance. It includes seven worked research episodes and reusable templates for specification, decision logging, claim challenge, inference revision, contribution mapping and claim preservation.
 
 **Suggested keywords**
 
@@ -38,8 +38,6 @@ A social-science-facing resource and worked case study on generative-AI-assisted
 - research transparency
 - attribution
 - AI-assisted research
-- PISA
-
 ## Release procedure
 
 1. Complete `setup/PUBLICATION_CHECKLIST.md`.

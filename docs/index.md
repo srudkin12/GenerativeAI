@@ -5,22 +5,26 @@ title: Home
 
 # AI-Assisted Social Science Research
 
-## A Reason-Provenance Resource and Worked Case Study
+## Methods, Governance and Reason Provenance
 
-This site is designed for social scientists who want to use generative AI as part of serious research while keeping consequential judgement, verification, claim boundaries and contribution provenance visible.
+This site is for social scientists who want to use generative AI as part of serious research while keeping consequential judgement, verification, inferential boundaries and contribution provenance visible.
 
-The resource grew from a documented PISA research project and a separate Academic Writing Filter project.
+The resource is **method first**. A documented empirical project supplies the worked examples, but the transferable questions are broader:
 
-### The practical question
-
-> **How can I use generative AI across a research project without confusing proposal generation with evidence, fluent interpretation with valid inference, or better prose with a stronger authorised claim?**
+- When is an AI contribution merely a proposal, and when can it enter the evidence base?
+- Which research decisions require explicit human specification or refusal?
+- What should happen when comparator or robustness evidence weakens the preferred story?
+- How should researchers distinguish a computed result from the inference attached to it?
+- How can later manuscript revision preserve the claim the evidence actually authorises?
+- What evidence supports later claims about who or what contributed to consequential intellectual moves?
 
 ### A practical route through the resource
 
 - [Start Here](quick-start.md) — a 15-minute route for a first visit.
 - [Research Protocol](practical-research-protocol.md) — the ten-step transferable method.
-- [Worked Cases](worked-cases/index.md) — seven contrasting episodes from the PISA project.
-- [Researcher Tools](tools/index.md) — reusable records for consequential decisions, challenge, claim preservation and release.
+- [Methods & Implications](methods-implications.md) — what the approach changes about research practice.
+- [Worked Examples](worked-cases/index.md) — seven episodes showing the method under pressure.
+- [Researcher Tools](tools/index.md) — reusable records for specification, challenge, claim preservation and release.
 - [Reason provenance](reason-provenance.md) — evidence for bounded claims about contribution and research trajectory.
 - [Manuscript governance](manuscript-governance/index.md) — preserving authorised claims through revision.
 - [Integrated workflow architecture](workflow-architecture.md) — how evidence production, claim authorisation, manuscript governance and release audit fit together.
@@ -28,7 +32,7 @@ The resource grew from a documented PISA research project and a separate Academi
 
 ## Two governance problems
 
-**Reason provenance** concerns evidence for bounded claims about how consequential research judgements entered and changed the project.
+**Reason provenance** concerns evidence for bounded claims about how consequential research judgements entered and changed a project.
 
 **Manuscript governance** concerns the admissibility of later revisions once evidence and claim boundaries have been established.
 

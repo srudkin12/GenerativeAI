@@ -66,7 +66,7 @@ Short footer:
 
 The filter is not "my preferred style". It allocates decision rights. Evidence and authorised claim boundaries outrank outlet style and house preferences.
 
-## Backup / optional main slide — PISA claim-preservation example
+## Backup / optional main slide — worked claim-preservation example
 
 Use the PCA/Ball Mapper example:
 
@@ -91,14 +91,14 @@ That moves directly into retrospective storytelling and reason provenance.
 
 Aim for roughly **3–4 minutes** across the two main slides.
 
-Keep the detailed PISA contract as backup unless rehearsal shows that the audience needs the concrete example in the main sequence.
+Keep the detailed worked contract as backup unless rehearsal shows that the audience needs the concrete example in the main sequence.
 
 ## Claims not to make
 
 Do not say that:
 
-- the Academic Writing Filter caused the original PISA corrections;
-- the PISA project validates the filter;
+- the Academic Writing Filter caused the original empirical corrections;
+- the worked empirical project validates the filter;
 - the filter has been shown to improve publication outcomes or writing quality;
 - Cochrane authored or endorsed the filter;
 - use of the filter necessarily implies use of AI.

@@ -1,19 +1,21 @@
 # Source Basis for the Repository
 
-## PISA / seminar source
+## Worked case-study source
 
-The research-process cases were derived from the frozen PISA project handover and associated internal seminar evidence archive.
+The research-process episodes were derived from a frozen empirical-project handover and associated internal seminar evidence archive.
+
+The underlying application used international educational data from PISA. The public resource retains the material because it documents contrasting research functions rather than because the application is the substantive focus.
 
 Internal source classes included:
 
-- the PISA seminar handover;
+- the seminar handover;
 - the master seminar evidence pack;
 - evidence dossiers on question origination, analytical governance, local execution, comparator challenges, robustness, withdrawn inference, retrospective storytelling and final-object inspection;
-- the current empirical PISA manuscript;
+- the empirical manuscript;
 - the generic reason-provenance conceptual manuscript;
 - the current CAIS-oriented conceptual derivative.
 
-The public resource does not reproduce that archive wholesale. It translates selected episodes into social-science-facing worked cases.
+The public resource does not reproduce that archive wholesale. It translates selected episodes into social-science-facing worked examples.
 
 ## Academic Writing Filter source
 
@@ -31,6 +33,6 @@ The receiving resource imports the **governance interface**, not evidence that t
 
 Internal source material remains distinct from public interpretation.
 
-Where a sentence is based on recovered conversation wording but has not been checked against an original export or screenshot, the public worked case paraphrases the episode rather than presenting the wording as a quotation.
+Where a sentence is based on recovered conversation wording but has not been checked against an original export or screenshot, the public worked example paraphrases the episode rather than presenting the wording as a quotation.
 
 A public release should never convert a reconstruction into a quotation for convenience.

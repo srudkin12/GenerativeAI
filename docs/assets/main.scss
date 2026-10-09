@@ -8,12 +8,12 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    gap: 1.25rem;
+    gap: 1rem;
   }
 
   .site-title {
     float: none;
-    font-size: 22px;
+    font-size: 21px;
     white-space: nowrap;
   }
 
@@ -30,8 +30,9 @@
   }
 
   .site-nav .page-link {
-    margin-left: 15px;
+    margin-left: 12px;
     white-space: nowrap;
+    font-size: 14px;
   }
 
   .site-nav .page-link:not(:last-child) {

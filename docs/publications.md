@@ -3,19 +3,9 @@ layout: default
 title: Related manuscripts
 ---
 
-# Related manuscript projects
+# Related manuscripts and artefacts
 
-The repository grew from a wider research programme containing distinct outputs.
-
-## Empirical PISA manuscript
-
-**Beyond PISA rankings: Mapping a moving international benchmark and UK trajectories, 2018–2025**
-
-The empirical manuscript studies own-score change, rank movement and movement within a changing international comparison field using PISA 2018, 2022 and 2025 published system-level outcomes.
-
-The repository does not treat the empirical PISA analysis as validation of reason provenance.
-
-**Status in this development release:** manuscript project; public bibliographic details to be added when appropriate.
+The public resource grew alongside several distinct scholarly outputs. The resource is not a substitute for any of them.
 
 ## Conceptual reason-provenance manuscript
 
@@ -23,7 +13,7 @@ The repository does not treat the empirical PISA analysis as validation of reaso
 
 The conceptual manuscript develops the attribution problem that became visible through the documented research workflow.
 
-PISA functions as a developmental illustration rather than empirical validation.
+The empirical case functions as a developmental illustration rather than validation.
 
 **Status in this development release:** manuscript project; public bibliographic details to be added when appropriate.
 
@@ -43,8 +33,14 @@ The current project does not claim that the filter improves manuscript quality, 
 
 The working paper explains revision as an admissibility problem under ordered constraints, the distinction among task-relative invariants, contextual constraints and mutable presentation choices, and the claim-preservation mechanism.
 
+## Worked case-study empirical manuscript
+
+**Beyond PISA rankings: Mapping a moving international benchmark and UK trajectories, 2018–2025**
+
+The empirical manuscript studies own-score change, rank movement and movement within a changing international comparison field using published PISA system-level outcomes.
+
+Its role in this repository is to provide a documented longitudinal case through which research-process episodes can be examined. The repository does not treat the empirical analysis as validation of reason provenance.
+
 ## Relationship to this repository
 
-The repository is not a substitute for any of these manuscripts or artefacts.
-
-Its contribution is practical: it translates selected research episodes and governance mechanisms into worked social-science cases and reusable documentation tools.
+The repository translates selected research episodes and governance mechanisms into general social-science methods, implications and reusable documentation tools.

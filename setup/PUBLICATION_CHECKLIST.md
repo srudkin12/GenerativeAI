@@ -7,7 +7,7 @@
 - [ ] Manuscript-governance pages are understandable without prior knowledge of the Academic Writing Filter project.
 - [ ] Public navigation exposes only material intended for current public release.
 - [ ] Internal delivery-format planning is not present in the public repository.
-- [ ] Ten-step protocol is understandable without prior knowledge of PISA.
+- [ ] Ten-step protocol is understandable without prior knowledge of the worked application.
 - [ ] Direct quotations, if any, are verified against authoritative originals.
 - [ ] No reconstructed wording appears as a quotation.
 - [ ] No raw internal chat logs are included accidentally.
@@ -17,7 +17,7 @@
 
 ## Intellectual boundaries
 
-- [ ] PISA is described as developmental illustration, not validation.
+- [ ] The worked application is described as developmental illustration, not validation.
 - [ ] Attribution claims remain bounded.
 - [ ] Attribution is separated from endorsement of AI-intensive labour arrangements.
 - [ ] Reason provenance and manuscript governance are not treated as synonyms.
@@ -25,7 +25,7 @@
 - [ ] The withdrawn direct-flow inference has not reappeared.
 - [ ] Generated code/text is not described as verified evidence merely because it was generated.
 - [ ] The Academic Writing Filter is not described as empirically proven to improve writing or publication outcomes.
-- [ ] PISA claim-preservation examples are not represented as historical evidence that a formal contract existed during the original empirical work.
+- [ ] Retrospective claim-preservation examples are not represented as historical evidence that a formal contract existed during the original empirical work.
 
 ## Rights and provenance
 

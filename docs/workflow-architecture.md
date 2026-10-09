@@ -5,7 +5,7 @@ title: Integrated workflow architecture
 
 # An integrated governance architecture
 
-The resource now distinguishes four logical layers in an AI-assisted research workflow.
+The resource distinguishes four logical layers in an AI-assisted research workflow.
 
 ## Layer A — Evidence production
 
@@ -73,11 +73,11 @@ It asks what evidence permits bounded claims about who or what contributed to co
 
 For example:
 
-- Who first proposed the moving-benchmark question?
-- Who imposed the four-nation analytical specification?
-- What evidence shows that a method claim was narrowed after the PCA comparator?
+- Who first proposed the consequential research question?
+- Who imposed the analytical specification or refused an alternative?
+- What evidence shows that a preferred claim was narrowed after challenge?
 - Who introduced an interpretation that was later withdrawn?
-- What record supports the claim that a particular qualification was deliberately preserved during revision?
+- What record supports the claim that a qualification was deliberately preserved during revision?
 
 Reason provenance therefore concerns the **evidential basis of contribution claims**.
 

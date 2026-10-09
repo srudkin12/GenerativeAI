@@ -1,32 +1,37 @@
 # Changelog
 
-## v0.3.1 — public navigation and scope correction
+## v0.3.2 — methods-first public framing
 
 ### Changed
 
-- Simplified the GitHub Pages header to a short public route:
-  **Start Here → Research Protocol → Worked Cases → Researcher Tools → Cite**.
-- Added desktop navigation styling while preserving the Minima mobile menu.
-- Removed delivery-format planning from the public repository.
+- Reframed the public resource around transferable **methods, governance and implications** rather than the empirical application.
+- Changed the public subtitle to **Methods, Governance and Reason Provenance**.
+- Added a dedicated **Methods & Implications** page.
+- Changed the navigation label from **Worked Cases** to **Worked Examples**.
+- Rewrote the landing page, README, quick start and About page so the application appears only after the transferable method is established.
+- Reframed the worked-case index around methodological problems rather than application chronology.
+- Generalised the workflow-architecture examples.
+- Replaced the application-specific claim-preservation page title and filename with a generic worked-example page.
+- Reordered related manuscripts so the conceptual and manuscript-governance outputs appear before the case-study empirical manuscript.
+- Removed the application name from citation metadata and keywords.
+
+## v0.3.1 — public navigation and scope correction
+
+- Simplified the GitHub Pages header.
+- Removed current workshop and delivery-format planning from the public repository.
 - Kept the ten-step protocol, worked cases, manuscript-governance material and reusable templates public.
-- Reframed the public resource around self-directed use following the seminar.
 
 ## v0.3.0 — integrated practical research resource
 
-### Added
-
 - Added a ten-step practical protocol for Generative-AI-assisted social-science research.
 - Added an AI-Assisted Research Charter template.
-- Connected the documented PISA episodes to the reason-provenance and manuscript-governance architecture.
-- Revised the quick-start pathway so readers can move directly from the research concepts to practical tools.
+- Connected the documented empirical episodes to the reason-provenance and manuscript-governance architecture.
 
 ## v0.2.0 — integrated manuscript-governance release
 
 - Integrated the Academic Writing Filter as a manuscript-governance layer.
 - Added the four-layer research architecture.
-- Added PISA claim-preservation examples and evidence-ledger material.
-- Added claim-preservation and post-revision audit templates.
-- Added the first-time social-science reader review.
+- Added claim-preservation examples and evidence-ledger material.
 
 ## v0.1.0 — development starter
 

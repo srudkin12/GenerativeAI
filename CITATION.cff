@@ -1,16 +1,16 @@
 cff-version: 1.2.0
 message: "If you use this resource, please cite it using the metadata below. Add the DOI after the first archived public release."
-title: "AI-Assisted Social Science Research: A Reason-Provenance Resource and Worked Case Study"
+title: "AI-Assisted Social Science Research: Methods, Governance and Reason Provenance"
 authors:
   - family-names: "Rudkin"
     given-names: "Simon"
     affiliation: "Department of Social Statistics, University of Manchester"
-version: "0.3.1"
+version: "0.3.2"
 abstract: >-
-  A social-science-facing resource on generative-AI-assisted research. The
-  resource connects reason provenance, empirical verification, adversarial
-  challenge, claim authorisation and manuscript governance using a documented
-  PISA project and the Academic Writing Filter.
+  A practical social-science resource on generative-AI-assisted research. The
+  resource connects proposal generation, verification, adversarial challenge,
+  claim authorisation, reason provenance and manuscript governance through
+  transferable methods, worked research episodes and reusable tools.
 keywords:
   - "social science"
   - "generative AI"
@@ -20,4 +20,3 @@ keywords:
   - "claim preservation"
   - "research transparency"
   - "AI-assisted research"
-  - "PISA"

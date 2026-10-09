@@ -5,27 +5,45 @@ title: About
 
 # About this resource
 
-Generative AI can participate in many parts of a social-science research process: finding candidate sources, proposing questions, drafting analytical code, suggesting robustness checks, challenging interpretations, reorganising manuscripts and helping researchers reflect on their own workflow.
+Generative AI can participate in many parts of a social-science research process: proposing questions, finding candidate sources, drafting analytical code, suggesting robustness checks, challenging interpretations, reorganising manuscripts and helping researchers reflect on their own workflow.
 
-A list of possible uses tells us little about who made consequential intellectual moves, why those moves were adopted, what evidence later justified them, or whether subsequent rewriting preserved the claim that the evidence supported.
+A list of possible capabilities tells us little about the harder methodological questions:
 
-This resource therefore focuses on **research episodes and governance boundaries** rather than capabilities.
+- which outputs may influence the evidence base;
+- which research decisions require explicit specification;
+- how preferred claims should respond to inconvenient evidence;
+- how inferential boundaries survive rewriting;
+- what evidence supports later claims about intellectual contribution.
 
-The worked case began with a public PISA release and an existing researcher interest in Ball Mapper, topological data analysis and the interpretation of ranking systems. Generative AI entered after that substantive starting point. It accelerated some tasks, proposed a consequential question, generated analytical artefacts, challenged parts of the preferred methodological story and also produced at least one interpretation that was later withdrawn.
+This resource therefore focuses on **research functions, governance boundaries and implications** rather than on a catalogue of AI capabilities.
 
-A separate Academic Writing Filter project developed a manuscript-governance framework concerned with a different problem: how prose may be revised without silently changing the research argument.
+A separate Academic Writing Filter project develops a manuscript-governance framework concerned with one part of that process: how prose may be revised without silently changing the research argument.
 
-The two strands meet at an interface rather than through a merged project history.
+## Worked case-study basis
+
+Seven episodes are drawn from a documented project analysing international educational data. The project began from a public PISA release and an existing researcher interest in ranking systems and multidimensional representations.
+
+The application is used because its archived development history contains contrasting episodes of:
+
+- productive AI origination;
+- researcher specification;
+- local verification;
+- comparator challenge;
+- inferential correction;
+- retrospective reconstruction;
+- final-object inspection.
+
+The case supplies evidence about the **research process**. Readers do not need an interest in education or PISA to use the methods.
 
 ## What this resource is for
 
 Use the material to:
 
-- discuss AI-assisted research methods with students or colleagues;
-- design a documentation protocol for a new project;
+- design a governed AI-assisted research workflow;
 - distinguish proposal generation from verified evidence;
-- document why an analytical decision changed;
-- record when robustness evidence narrows a claim;
+- document consequential analytical decisions;
+- challenge a preferred interpretation rather than merely elaborate it;
+- record when evidence narrows or withdraws a claim;
 - make contribution claims more specific and auditable;
 - separate contemporaneous evidence from retrospective reconstruction;
 - state an authorised claim boundary before substantial rewriting;

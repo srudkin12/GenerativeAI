@@ -5,25 +5,31 @@ title: Start Here
 
 # A 15-minute route through the resource
 
-You do not need to know PISA, Ball Mapper or information-systems theory to use this resource.
+No knowledge of the worked application is required.
 
 ## Minutes 1–4: learn the operating model
 
 Read the [ten-step practical research protocol](practical-research-protocol.md).
 
-It takes a project from substantive problem through proposal generation, verification, challenge, claim authorisation, manuscript governance, final inspection and bounded provenance.
+It takes a project from substantive problem through proposal generation, specification, verification, challenge, claim authorisation, manuscript governance, final inspection and bounded provenance.
 
-## Minutes 5–9: read three contrasting cases
+## Minutes 5–7: understand the implications
+
+Read [Methods & Implications](methods-implications.md).
+
+The central shift is from asking **whether AI was used** to asking **what research function it performed, what authority that function carried, and what evidence justified the next step**.
+
+## Minutes 8–11: read three contrasting worked episodes
 
 Start with:
 
-1. [A consequential AI-originated research question](worked-cases/01-moving-benchmark-question.md)
-2. [Evidence makes the preferred method claim smaller](worked-cases/04-evidence-narrows-method-claim.md)
+1. [When AI proposes a consequential research question](worked-cases/01-moving-benchmark-question.md)
+2. [When evidence makes the preferred method claim smaller](worked-cases/04-evidence-narrows-method-claim.md)
 3. [A plausible number with an unwarranted inference](worked-cases/05-plausible-number-wrong-inference.md)
 
 Together they show productive contribution, inconvenient challenge and inferential failure.
 
-## Minutes 10–12: distinguish the two governance problems
+## Minutes 12–13: distinguish the two governance problems
 
 Read:
 
@@ -34,7 +40,7 @@ Reason provenance asks what evidence supports a contribution claim.
 
 Manuscript governance asks whether a later revision still expresses the research claim that the evidence authorises.
 
-## Minutes 13–15: choose a tool for your own project
+## Minutes 14–15: choose a tool for your own project
 
 If you are starting a project, use the [AI-Assisted Research Charter](../templates/ai-assisted-research-charter.md).
 
@@ -44,7 +50,7 @@ If you are drafting or revising, use the [Claim-Preservation Contract](../templa
 
 The full collection is available under [Researcher Tools](tools/index.md).
 
-## A note for different social-science traditions
+## Across research traditions
 
 A "research object" in these pages does not have to be a statistical estimate.
 

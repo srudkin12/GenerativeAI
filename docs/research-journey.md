@@ -1,13 +1,15 @@
 ---
 layout: default
-title: Research journey
+title: How the worked case developed
 ---
 
-# From public release to reflexive research case
+# From public release to a reflexive research case
 
-The PISA project began as **quick-response social-science research**, not as an experiment about AI.
+The worked case began as **quick-response social-science research**, not as an experiment about AI.
 
 A public data release created the substantive opportunity. The researcher brought an existing methodological programme and an interest in how rankings represent multidimensional social outcomes. Generative AI was then introduced as a research assistant and critic.
+
+The empirical application used PISA data, but the reason for retaining the case in this resource is the unusually rich sequence of documented research decisions.
 
 ## The trajectory
 
