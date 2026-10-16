@@ -43,6 +43,8 @@
 - [ ] Version changed from development to public release.
 - [ ] Academic Writing Filter and working-paper citations checked.
 - [ ] Zenodo metadata checked.
+- [ ] Zenodo title exactly matches `CITATION.cff` and the public repository title.
+- [ ] Zenodo version exactly matches the Git tag/release version.
 - [ ] DOI added after deposit.
 
 ## Repository checks

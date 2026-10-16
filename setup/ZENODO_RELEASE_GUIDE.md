@@ -8,10 +8,23 @@ The resource is primarily a social-science methodological and educational object
 
 A manual Zenodo deposit gives direct control over the resource type and descriptive metadata.
 
+
+## Metadata consistency rule
+
+The Zenodo record, GitHub release and `CITATION.cff` must use the **same title and release version**.
+
+Canonical title for this project:
+
+> **AI-Assisted Social Science Research: Methods, Governance and Reason Provenance**
+
+The development series (`0.3.x`) is not the first DOI-bearing release. When the project is ready for its first archived public release, update the repository metadata to `1.0.0`, create/tag that release, and use **1.0.0** as the Zenodo version.
+
+Do not use the earlier working title *A Reason-Provenance Resource and Worked Case Study* for the DOI record.
+
 ## Suggested first-release metadata
 
 **Title**  
-AI-Assisted Social Science Research: A Reason-Provenance Resource and Worked Case Study
+AI-Assisted Social Science Research: Methods, Governance and Reason Provenance
 
 **Creator**  
 Simon Rudkin

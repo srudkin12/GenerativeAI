@@ -1,5 +1,14 @@
 # Changelog
 
+## v0.3.11 — Zenodo metadata alignment
+
+- aligned the proposed Zenodo title with the canonical repository and `CITATION.cff` title: **AI-Assisted Social Science Research: Methods, Governance and Reason Provenance**;
+- clarified that the development series (`0.3.x`) is not the first DOI-bearing release;
+- specified that the first DOI-bearing release should use matching GitHub, `CITATION.cff` and Zenodo version metadata (planned `1.0.0`);
+- added title/version consistency checks to the publication checklist;
+- added a concrete first-release Zenodo metadata template.
+
+
 ## v0.3.10 — acknowledgements and release-metadata preparation
 
 ### Added
