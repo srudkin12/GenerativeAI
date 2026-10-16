@@ -47,3 +47,7 @@ This resource is not:
 - a substitute for subject-matter, statistical, qualitative, ethical or methodological expertise.
 
 Attribution and desirability are separate questions. A workflow can be transparently attributable without being a division of labour that a university, discipline, journal or researcher should endorse.
+
+## Acknowledgements
+
+Thanks are due to Professor Jason Thatcher for his inspirational discussions on AI and research. I also thank seminar participants at The University of Manchester Department of Social Statistics for their feedback on the project.

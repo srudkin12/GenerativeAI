@@ -1,5 +1,17 @@
 # Changelog
 
+## v0.3.10 — acknowledgements and release-metadata preparation
+
+### Added
+
+- Added an **Acknowledgements** section to the public About page.
+- Added a persistent footer link to the Acknowledgements section so the credit is discoverable without expanding the primary navigation.
+
+### Changed
+
+- Updated development-version metadata in `CITATION.cff`, the Cite page and README to v0.3.10.
+- Left the DOI strategy unchanged pending the first DOI-bearing archival release.
+
 ## v0.3.9 — risks and failure modes
 
 ### Added

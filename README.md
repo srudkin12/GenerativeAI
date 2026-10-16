@@ -52,7 +52,7 @@ No raw private chat logs, confidential review materials or unreleased internal e
 
 ## Repository status
 
-**v0.3.3 — reader-first public framing**
+**v0.3.10 — acknowledgements and release-metadata preparation**
 
 ## Citation
 
