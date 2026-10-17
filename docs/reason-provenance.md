@@ -9,7 +9,7 @@ Research transparency often asks **what happened**. Reason provenance asks a nar
 
 > **What evidence supports a claim about how a consequential research move entered the project, who or what contributed to it, and how it changed the research trajectory?**
 
-The aim is not to reconstruct every mental state. The aim is to make **bounded claims about contribution** proportionate to the evidence available.
+A **bounded attribution** describes only the contribution that the surviving records actually support; it does not imply complete knowledge of intellectual origins. The aim is not to reconstruct every mental state. The aim is to make **bounded claims about contribution** proportionate to the evidence available.
 
 ## Four useful contribution functions
 
@@ -73,6 +73,8 @@ The templates in this repository are designed around those consequential points.
 
 Reason provenance concerns evidence for claims about **contribution and trajectory**.
 
-[Manuscript governance](manuscript-governance/index.md) concerns whether a proposed textual revision **preserves the authorised research claim**.
+[Manuscript governance](manuscript-governance/) concerns whether a proposed textual revision **preserves the authorised research claim**.
 
 A revision may be perfectly attributable yet still substantively inadmissible. Conversely, a permissible revision may not require a detailed contribution record unless attribution itself matters.
+
+The [constructed end-to-end illustration](illustrated-workflow.html) makes the two tests explicit. Use the [decision guide](choose-your-route.html) to decide which record a live research problem needs.

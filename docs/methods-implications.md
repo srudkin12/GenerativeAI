@@ -5,7 +5,7 @@ title: Methods & Implications
 
 # Methods and implications
 
-The resource treats generative AI as a participant in a **sequence of research functions**, not as a single intervention labelled "AI use".
+The resource examines generative AI performing roles within a **sequence of research functions**, rather than treating every activity as one intervention labelled "AI use". Describing a contribution function does not confer scholarly authority, authorship entitlement or moral agency on an AI system.
 
 That distinction has several implications for social-science research practice.
 
@@ -123,7 +123,7 @@ Transfer requires design-appropriate evidence standards, inferential boundaries 
 
 ---
 
-# Practical implication
+## Practical implication
 
 The overall change is simple:
 

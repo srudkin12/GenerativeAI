@@ -41,6 +41,12 @@ a:visited {
   color: var(--link);
 }
 
+/* Keep long citation URLs inside narrow mobile screens. */
+.page-content a,
+.page-content blockquote {
+  overflow-wrap: anywhere;
+}
+
 a:hover,
 a:focus {
   color: var(--accent-dark);

@@ -1,5 +1,7 @@
 # Zenodo Release Guide
 
+**Status (17 October 2026):** The first DOI-bearing release, v1.0.0, has been published and archived. Its version-specific DOI is `10.5281/zenodo.23428193`. The v1.0.0 instructions below document the completed first-release procedure; they must not be repeated against that frozen archival object. Use [`NEXT_RELEASE_CHECKLIST.md`](NEXT_RELEASE_CHECKLIST.md) to prepare a subsequent version.
+
 ## Recommended approach for this project
 
 Use Zenodo as the **DOI-bearing archive of a public release**, but do not frame the repository as research software merely because GitHub is involved.
@@ -14,11 +16,11 @@ Canonical title:
 
 > **AI-Assisted Social Science Research: Methods, Governance and Reason Provenance**
 
-The development series (`0.3.x`) is not DOI-bearing. The first DOI-bearing release is planned as **1.0.0**.
+The development series (`0.3.x`) was not DOI-bearing. The first DOI-bearing release was **1.0.0**, published on 17 October 2026.
 
 Do not use the earlier working title *A Reason-Provenance Resource and Worked Case Study* for the DOI record.
 
-## Suggested first-release metadata
+## Historical first-release metadata (v1.0.0)
 
 **Title**<br>
 AI-Assisted Social Science Research: Methods, Governance and Reason Provenance
@@ -61,7 +63,7 @@ A practical social-science resource on generative-AI-assisted research. The reso
 **ORCID**<br>
 Add only if Simon chooses to include it.
 
-## Release procedure
+## Historical v1.0.0 release procedure
 
 1. Complete `setup/PUBLICATION_CHECKLIST.md`.
 2. Create a new **draft** Zenodo record.
@@ -90,4 +92,4 @@ This sequence allows the DOI to appear inside the v1.0.0 repository itself rathe
 
 ## Versioning principle
 
-Use a new Zenodo version for substantively different public releases rather than silently replacing the scholarly object. If Zenodo exposes a concept DOI for the version family after publication, document it separately from the version-specific DOI in a later metadata update if useful.
+Use a new Zenodo version for a later DOI-bearing public release rather than silently replacing the scholarly object. For a metadata-only or small corrective change, first determine whether a separate archival release is warranted. If Zenodo exposes a concept DOI for the version family after publication, document it separately from the version-specific DOI in a later metadata update if useful.

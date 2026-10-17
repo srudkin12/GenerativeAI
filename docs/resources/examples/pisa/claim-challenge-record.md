@@ -3,7 +3,9 @@ layout: default
 title: "Completed example: Claim Challenge Record"
 ---
 
-# Completed example — Claim Challenge Record
+# Retrospective completed example — Claim Challenge Record
+
+**Evidence-timing note:** This is a public synthesis of the recorded project episode, not a reproduced contemporaneous form. Dates of the original challenge, checks and revision are not established from the public excerpt; descriptions of later outcomes should not be read as entries made at the time.
 
 **Project:** PISA moving-benchmark analysis  
 **Claim ID:** METHOD-01

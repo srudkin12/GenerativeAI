@@ -2,7 +2,8 @@
 
 **Project:**  
 **Claim ID:**  
-**Date challenge introduced:**  
+**Date challenge introduced / source version:**  
+**Recorded by:**  
 
 ## Preferred claim before challenge
 
@@ -27,9 +28,11 @@ What assumption, inference or contribution is placed at risk?
 
 What would count as evidence for or against the original claim?
 
-## Result
+## Result (complete only after the check)
 
-Record the result without interpretive embellishment.
+**Date check carried out / output reference:**  
+**Recorded by:**  
+Record the result without interpretive embellishment; write *pending* if the check has not occurred. Do not overwrite the original proposed challenge.
 
 ## Effect on the manuscript
 

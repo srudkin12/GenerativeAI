@@ -7,7 +7,9 @@ title: Resources
 
 These resources are designed to be copied and adapted to another research project.
 
-They are deliberately lightweight. The aim is to record **consequential decisions and claim boundaries**, not every prompt, keystroke or conversational exchange.
+If you do not know where to begin, the [decision guide](../choose-your-route.html) connects common research problems to specific records. The [ten-stage crosswalk](../protocol-crosswalk.html) shows where a record might help and where verification must occur independently of documentation.
+
+They are deliberately lightweight. The aim is to record **consequential decisions and claim boundaries**, not every prompt, keystroke or conversational exchange. For a first session, begin with [one safe task and one checked suggestion](../quick-start.html); you may not need a form at all.
 
 ## Starting a project
 
@@ -26,7 +28,7 @@ Use before substantial AI-assisted exploration to state:
 
 ### [AI-Assisted Research Decision Log](ai-assisted-research-decision-log.html)
 
-Use when a decision materially changes the analytical object, scope, evidence base, interpretation or next stage of the research.
+Use when a decision materially changes the analytical object, scope, evidence base, interpretation or next stage of the research. **Keep the initial entry unchanged; append dated later updates.** A retrospective reconstruction must be labelled as such.
 
 ### [Reason-Provenance Record](reason-provenance-record.html)
 
@@ -74,15 +76,15 @@ Use before publishing process evidence, worked examples, slides or archival mate
 
 ---
 
-## Suggested minimum set
+## Choosing proportionate records
 
-You do not need every resource for every project.
+You do not need every resource for every project. In an initial low-risk exchange with no consequential decision, **no formal template may be necessary**. If a suggestion changes the research, a dated decision note may suffice. Check the actual evidence independently of the notes.
 
-A useful minimum sequence is:
+**One possible sequence for a complex project**, where each step serves a real purpose, is:
 
-**Research Charter → Decision Log → Claim Challenge Record → Claim-Preservation Contract → Release Screening Checklist**
+**Research Charter → selective Decision Log → Claim Challenge Record when needed → Claim-Preservation Contract during rewriting → Release Screening Checklist before publication.**
 
-Add the provenance, inference-revision and evidence-ledger resources when the research problem makes them useful.
+Use provenance, inference-revision and evidence-ledger records when there is a specific attribution, interpretation or evidential question to resolve. Neither the number of forms nor their completeness proves research quality.
 
 ---
 

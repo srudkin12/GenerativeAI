@@ -5,54 +5,42 @@ title: Cite
 
 # How to cite this resource
 
-## Release citation
+## Current release: v1.1.0
 
-For v1.0.0, cite:
+To cite the current published version of this research and educational resource, use:
+
+> Rudkin, Simon. (2026). *AI-Assisted Social Science Research: Methods, Governance and Reason Provenance* (Version 1.1.0). Zenodo. https://doi.org/10.5281/zenodo.23437397
+
+**Release date:** 17 October 2026. **Licence:** CC BY 4.0.
+
+The DOI [10.5281/zenodo.23437397](https://doi.org/10.5281/zenodo.23437397) identifies the archived **v1.1.0** source. Its corresponding [GitHub release is tagged `v1.1.0`](https://github.com/srudkin12/GenerativeAI/releases/tag/v1.1.0).
+
+## Earlier archived release: v1.0.0
 
 > Rudkin, Simon. (2026). *AI-Assisted Social Science Research: Methods, Governance and Reason Provenance* (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.23428193
 
-The DOI above is the version-specific DOI for the first archived public release.
+The DOI [10.5281/zenodo.23428193](https://doi.org/10.5281/zenodo.23428193) identifies the first public release, preserved under the [GitHub tag `v1.0.0`](https://github.com/srudkin12/GenerativeAI/releases/tag/v1.0.0). The new release does not overwrite that archival object.
+
+## Choosing the right citation
+
+Cite the **specific archived release actually used** rather than assuming all versions contain the same material. A later version will receive a separate version-specific DOI if and when it is published.
+
+The repository provides machine-readable [`CITATION.cff`](https://github.com/srudkin12/GenerativeAI/blob/main/CITATION.cff) metadata for the current scholarly release. The GitHub repository is called `GenerativeAI`; the scholarly title is *AI-Assisted Social Science Research: Methods, Governance and Reason Provenance*.
 
 ## Academic Writing Filter
 
-When using the manuscript-governance artefact itself, cite it separately:
+When using the separately hosted manuscript-governance artefact, cite it separately:
 
 > Rudkin, S. (2026). *Academic Writing Filter* (October 2026 release).
 
-Current public project page: `https://sites.google.com/view/simonrudkin/ai`
+[Academic Writing Filter public project page](https://sites.google.com/view/simonrudkin/ai). The filter is not republished or relicensed by this resource.
 
-## Working paper
+## Manuscript-governance working paper
 
 > Rudkin, S. (2026). *From Writing Advice to Manuscript Governance: A Constrained-Transformation Framework for Academic Revision*. Working paper.
 
-Update this entry if the working paper receives a repository record, DOI or publication.
+No DOI or formal publication record for this working paper is asserted here. See [Related manuscripts and artefacts](publications.html) for the relationship among the materials.
 
-## GitHub citation
+## Release and citation stewardship
 
-The repository root contains `CITATION.cff`. GitHub can use this file to expose a citation interface.
-
-## DOI strategy
-
-For this project, the recommended archival object is a **research/educational resource**, not software.
-
-For the first DOI-bearing release:
-
-1. complete the release-readiness and publication checklists;
-2. create a Zenodo draft and enter the release metadata;
-3. choose the closest available **non-software** resource type that describes the public object;
-4. record Simon Rudkin as creator with the Department of Social Statistics, University of Manchester affiliation;
-5. add ORCID if desired;
-6. select **CC BY 4.0** as the repository licence;
-7. reserve the Zenodo DOI while the record is still a draft — **completed for v1.0.0: `10.5281/zenodo.23428193`**;
-8. update `CITATION.cff`, this page and the README to version **1.0.0**, adding the reserved DOI and release date;
-9. run the final integrity checks and regenerate `SHA256SUMS.txt`;
-10. commit the exact release state and create the Git tag `v1.0.0`;
-11. create a GitHub Release for that tag;
-12. create a clean archive from the tag and upload that exact archive to the Zenodo draft;
-13. preview the Zenodo record and publish it.
-
-The **GitHub Release metadata**, `CITATION.cff`, this Cite page and the Zenodo record should share the same scholarly title and release version. The GitHub repository itself remains named `GenerativeAI`.
-
-The canonical scholarly title is:
-
-> **AI-Assisted Social Science Research: Methods, Governance and Reason Provenance**
+This repository is a **research and educational resource**, not a software release. Historical and future release procedures are maintained in the [GitHub setup documentation](https://github.com/srudkin12/GenerativeAI/tree/main/setup), rather than in the public citation guidance. Cite an archival record using the metadata associated with that particular version.

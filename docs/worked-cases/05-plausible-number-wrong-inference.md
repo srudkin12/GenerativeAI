@@ -5,6 +5,10 @@ title: "Case 5: A plausible number, an unwarranted inference"
 
 # Case 5 — A plausible number with an unwarranted inference
 
+## What a reader needs to know
+
+Ball Mapper represents observations in local groups that can overlap. **Counting observations in groups at two dates does not identify which named observation moved directly from one group to another.** A direct movement claim requires matched observations, not only group totals. The mathematical term *coupling* below means an assumed link between the two sets of group memberships.
+
 ## Research setting
 
 An early AI-generated interpretation treated changes in overlapping Ball Mapper occupancy as if they identified a direct movement of the same systems from one neighbourhood to another.
@@ -23,7 +27,7 @@ Products of overlapping endpoint memberships imposed a coupling that the represe
 
 The direct-flow claim was withdrawn before publication.
 
-Replacement evidence relied on observable endpoint states and robustness across landmark orders. In the canonical ordered chain, 36 systems could be classified at both endpoints; 21 moved downward, 14 were unchanged and 1 moved upward.
+Replacement evidence relied on observable endpoint states (the recorded position of a named system at each end) and robustness across landmark orders (different construction orders for the reference neighbourhoods). In the canonical ordered chain, 36 systems could be classified at both endpoints; 21 moved downward, 14 were unchanged and 1 moved upward.
 
 The paper therefore separated:
 
@@ -42,6 +46,10 @@ Verification must therefore include the meaning attached to a number, not only i
 The withdrawal is frozen in the project record and current empirical manuscript.
 
 **Public-release control:** any original AI wording should be quoted only after checking it against the authoritative conversation record.
+
+## Evidence available to public readers
+
+The endpoint counts and claim withdrawal are described from frozen internal project material. The full calculation, data, logs and original AI wording are **not published here**; the reported counts cannot be independently reconstructed from this page.
 
 ## Boundary
 

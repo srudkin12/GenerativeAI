@@ -15,8 +15,13 @@ The resource focuses on transferable research methods and governance problems. S
 
 ## Start here
 
-- [Start Here: a 15-minute route](docs/quick-start.md)
+- [Start Here: three steps for a first safe GenAI encounter](docs/quick-start.md)
+- [Decision guide: choose a route](docs/choose-your-route.md)
 - [Ten-step practical research protocol](docs/practical-research-protocol.md)
+- [Protocol crosswalk: stages, evidence and records](docs/protocol-crosswalk.md)
+- [Short field guide](docs/field-guide.md)
+- [Constructed end-to-end workflow illustration](docs/illustrated-workflow.md)
+- [Teaching and seminar activities](docs/teaching/index.md)
 - [Methods and implications](docs/methods-implications.md)
 - [Seven worked research examples](docs/worked-cases/index.md)
 - [Reusable researcher resources](docs/resources/index.md)
@@ -27,7 +32,9 @@ The resource focuses on transferable research methods and governance problems. S
 
 ## What the worked examples are for
 
-The examples make the research method concrete. They show:
+The seven documented PISA examples make the research method concrete, while underlying private project evidence is not fully reproducible from this repository. The separate survey, qualitative and archival teaching scenarios are *constructed* and do not report actual data or AI conversations.
+
+The documented examples show:
 
 - AI proposing a consequential question;
 - researcher contribution through specification, constraint and refusal;
@@ -39,6 +46,8 @@ The examples make the research method concrete. They show:
 
 
 ## Important boundaries
+
+Before using an AI service with source materials, check research permissions, confidentiality, institutional policy, consent and service-specific data handling. The [field guide](docs/field-guide.md) explains the upstream decision.
 
 This resource is not evidence that generative AI is inherently beneficial or harmful to scholarship.
 
@@ -57,10 +66,10 @@ Unless otherwise noted, original text, templates and documentation in this repos
 
 ## Repository status
 
-**v1.0.0 — first DOI-bearing public release**
+**Current scholarly release: v1.1.0 (17 October 2026).** The earlier v1.0.0 release remains preserved under its original DOI and Git tag. Version-specific records identify the content available in each archived release.
 
 ## Citation
 
-A machine-readable [`CITATION.cff`](CITATION.cff) is included. The version-specific DOI for v1.0.0 is [`10.5281/zenodo.23428193`](https://doi.org/10.5281/zenodo.23428193).
+A machine-readable [`CITATION.cff`](CITATION.cff) is included. Cite v1.1.0 with its version-specific DOI: [`10.5281/zenodo.23437397`](https://doi.org/10.5281/zenodo.23437397). The earlier v1.0.0 DOI is [`10.5281/zenodo.23428193`](https://doi.org/10.5281/zenodo.23428193).
 
 See [How to cite](docs/cite.md).

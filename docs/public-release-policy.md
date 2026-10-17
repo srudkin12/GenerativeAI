@@ -5,13 +5,14 @@ title: Public release policy
 
 # Public release policy
 
-This repository is intended to become a public scholarly resource, but the underlying research archives were not created on the assumption that every internal artefact would be published.
+This repository is a public scholarly resource, but the underlying research archives were not created on the assumption that every internal artefact would be published.
 
 Public release is therefore selective.
 
 ## Material suitable for public development
 
-- social-science-facing worked cases;
+- social-science-facing worked cases with checked evidence-status labels;
+- clearly labelled constructed teaching scenarios that do not masquerade as empirical records;
 - methodological diagrams created for the resource;
 - reusable documentation templates;
 - verified quotations with clear source notes;

@@ -5,7 +5,7 @@ title: Evidence status
 
 # Evidence-status rules
 
-The resource distinguishes four evidence classes.
+The resource distinguishes four evidence classes. Here, *evidence status* describes what a source can support, not a score for how sophisticated its formatting appears.
 
 | Status | Meaning | Appropriate public use |
 |---|---|---|
@@ -27,3 +27,9 @@ Evidence should therefore be matched to the claim.
 Do not convert reconstructed wording into a quotation merely because a quotation would be more vivid.
 
 Before publication, every quotation from an AI conversation should be checked against the original export, screenshot or equivalent authoritative record.
+
+## Internal verification and public auditability
+
+The status **frozen project evidence** describes material preserved and checked within the research workflow; it does not mean that readers can independently reproduce the claim from the contents of this website. Some PISA outputs and historic records are held internally and are not republished because the resource separates public teaching examples from private project archives.
+
+Worked cases now identify what is publicly inspectable and where interpretation relies on described but non-public material. A public case narrative is itself inspectable, but the existence of a narrative is not independent verification of an underlying statistic or contribution history. Any later provision of primary material would require separate evidential and rights review.

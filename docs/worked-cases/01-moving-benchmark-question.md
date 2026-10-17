@@ -5,6 +5,10 @@ title: "Case 1: A consequential research question"
 
 # Case 1 — When AI proposes a consequential research question
 
+## What a reader needs to know
+
+PISA (Programme for International Student Assessment) compares published results across education systems. A system can rise in the ranking even while its own score falls, if scores elsewhere fall faster. The issue in this case is **where a useful research question came from**, not how PISA scores are calculated.
+
 ## Research setting
 
 The project began with a public PISA release and an existing researcher interest in ranking systems and multidimensional representations of educational performance.
@@ -36,6 +40,10 @@ Question proposal and complete research authorship are different claims. Selecti
 The proposal origin is supported by recovered conversation evidence and frozen downstream manuscript development.
 
 **Public-release control:** insert a direct quotation only after the wording has been checked against the original ChatGPT export or screenshot.
+
+## Evidence available to public readers
+
+Readers can inspect the bounded account on this page; the underlying recovered conversation evidence and full development history are **not reproduced here**. The earliest recoverable phrasing is a project-record claim, not independently verifiable from this page alone.
 
 ## Boundary
 

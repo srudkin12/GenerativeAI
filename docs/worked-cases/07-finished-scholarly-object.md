@@ -29,6 +29,10 @@ Several corrections were not cosmetic because they changed what a reader could r
 
 The final object needs to be read and inspected as an object in its own right.
 
+## Evidence available to public readers
+
+Readers can inspect the categories of inspection issues reported here; the complete private working drafts, review records and corrected exports are **not provided** as independently auditable evidence.
+
 ## What this case does not claim
 
 In this project, the final direct inspection was human.

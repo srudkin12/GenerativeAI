@@ -5,89 +5,61 @@ title: Home
 
 <div class="resource-hero">
   <div class="resource-kicker">Research method and governance</div>
-  <h1>Using generative AI without surrendering the research judgement</h1>
-  <p class="resource-lead">
-    A practical resource for social scientists who want to use generative AI
-    while keeping verification, inference, consequential decisions and
-    contribution provenance visible.
-  </p>
+  <h1>Using generative AI without surrendering research judgement</h1>
+  <p class="resource-lead">A practical resource for social scientists who want to use generative AI while keeping verification, inference, consequential decisions and contribution provenance visible.</p>
 </div>
 
 <div class="resource-question">
 <strong>Central question:</strong><br>
-How can generative AI contribute across a serious social-science research process
-without proposal generation being confused with evidence, fluent interpretation
-with valid inference, or improved prose with a stronger research claim?
+How can generative AI contribute to social-science research without confusing proposals with evidence, fluent interpretations with valid inference, or better prose with stronger research claims?
 </div>
 
-## Three principles
+## Begin with the task you have
+
+<div class="resource-route-grid">
+  <a class="resource-route" href="{{ '/choose-your-route.html' | relative_url }}">
+    <strong>I have a research problem</strong>
+    <span>Find the decision, evidence check and record relevant to the difficulty you face.</span>
+  </a>
+  <a class="resource-route" href="{{ '/quick-start.html' | relative_url }}">
+    <strong>I want to try GenAI safely</strong>
+    <span>Three beginner steps and a constructed first prompt, with no participant data.</span>
+  </a>
+  <a class="resource-route" href="{{ '/practical-research-protocol.html' | relative_url }}">
+    <strong>I need the complete structure</strong>
+    <span>Use the ten-step protocol and its crosswalk as a reference, not a compliance checklist.</span>
+  </a>
+</div>
+
+For a first practical exchange, see the [Start Here guide](quick-start.html) and its [constructed researcher–AI exchange](illustrated-workflow.html#a-first-genai-exchange-constructed-not-a-transcript). For teaching or independent practice, start with the [constructed illustration](illustrated-workflow.html) or [workshop activities](teaching/). The example is hypothetical; the seven [PISA worked cases](worked-cases/) are bounded accounts of a research programme, not validation of the framework.
+
+## Three governing distinctions
 
 <div class="resource-grid">
   <div class="resource-card">
-    <h3>Start with the research problem</h3>
-    <p>AI enters an existing substantive and methodological problem. It does not define the purpose of the research by default.</p>
+    <h3>Proposals are not evidence</h3>
+    <p>Generated analyses, citations, themes and explanations remain candidates until they pass checks appropriate to the design.</p>
   </div>
   <div class="resource-card">
-    <h3>Verify before claiming</h3>
-    <p>Generated code, text, themes and interpretations are candidate artefacts until they pass design-appropriate verification.</p>
+    <h3>Evidence sets the claim boundary</h3>
+    <p>Claim authorisation means deciding exactly what the available evidence licenses the manuscript to say.</p>
   </div>
   <div class="resource-card">
-    <h3>Preserve the authorised claim</h3>
-    <p>Later rewriting may improve presentation, but it must not silently strengthen, simplify or alter what the evidence licenses.</p>
+    <h3>Contribution history needs its own evidence</h3>
+    <p>Reason provenance distinguishes what was recorded when a consequential decision occurred from what was reconstructed later.</p>
   </div>
 </div>
 
-## Where to begin
+Before any AI interaction involving research materials, check whether institutional policy, ethics, consent, contractual terms and the chosen service permit their disclosure. See the [field guide](field-guide.html#before-using-ai).
 
-<div class="resource-route-grid">
-  <a class="resource-route" href="{{ '/quick-start.html' | relative_url }}">
-    <strong>Start Here</strong>
-    <span>A 15-minute route through the operating model, examples and resources.</span>
-  </a>
-  <a class="resource-route" href="{{ '/practical-research-protocol.html' | relative_url }}">
-    <strong>Research Protocol</strong>
-    <span>A ten-step method from substantive problem to release audit and bounded provenance.</span>
-  </a>
-  <a class="resource-route" href="{{ '/resources/' | relative_url }}">
-    <strong>Resources</strong>
-    <span>Reusable charters, decision records, challenge tools and claim-preservation documents.</span>
-  </a>
-</div>
+## Two connected governance problems
 
-## What the resource addresses
+**Reason provenance** assesses the evidence for bounded accounts of how decisions, contributions and revisions entered the research process. Preserve traces of consequential moves *when they occur*; do not postpone collection until the end.
 
-Generative AI can contribute to question formation, code drafting, analytical
-alternatives, interpretation, challenge and manuscript revision. Those functions
-do not all carry the same evidential status.
+**Manuscript governance** protects warranted claims, necessary qualifications and distinct contributions during later rewriting. A valid revision may improve the prose; it may not silently improve the evidence.
 
-The resource therefore focuses on a sequence of questions:
+The two responsibilities connect without becoming interchangeable. Neither a detailed log nor a polished manuscript replaces sound research design and substantive assessment.
 
-- What function did AI perform?
-- Which output was merely a proposal?
-- What was independently verified?
-- Which consequential decisions were made by the researcher?
-- What happened when robustness or comparator evidence weakened the preferred claim?
-- What evidence supports later statements about human and AI contribution?
-- Did manuscript revision preserve the claim the research actually authorised?
+## When the process itself becomes the problem
 
-Selected worked examples are drawn from a PISA research project. They make the
-method concrete without making the application the organising subject of the site.
-
-## Two governance problems
-
-**Reason provenance** concerns evidence for bounded claims about how consequential
-research judgements entered and changed a research process.
-
-**Manuscript governance** concerns whether later revisions remain admissible once
-evidence and inferential boundaries have been established.
-
-The two problems connect, but they are not the same.
-
----
-
-## Before applying the protocol mechanically
-
-A governed workflow can still produce conventional, weak or misplaced research if oversight becomes ceremonial or repeated revision writes out the novelty.
-
-[Read the risks and failure modes →](risks-failure-modes.html)
-
+Repeated simulated review may encourage stylistic convergence, bury the most original finding or reward ceremonial logging. The [risks and failure modes](risks-failure-modes.html) explain when to stop, defend a warranted distinction or return to the actual evidence.

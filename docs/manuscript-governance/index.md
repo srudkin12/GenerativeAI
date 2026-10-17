@@ -22,13 +22,13 @@ The manuscript-governance strand addresses that risk.
 
 > **Research establishes evidence and authorised claims. Manuscript governance controls admissible presentation and revision.**
 
-The Academic Writing Filter models revision as an **admissibility problem under ordered constraints**.
+The Academic Writing Filter models revision as an **admissibility problem under ordered constraints**: evidence and claim boundaries take priority over stylistic preferences.
 
 Three classes of manuscript property are useful.
 
 ### 1. Task-relative invariants
 
-Properties treated as fixed during a particular revision episode.
+Properties treated as fixed **for the particular editing task**, unless the researcher formally reopens the underlying claim.
 
 Examples include:
 
@@ -61,7 +61,7 @@ Examples include:
 - signposting;
 - local compression or expansion.
 
-A revision may optimise the third class only inside the space allowed by the first two.
+A revision may optimise the third class only inside the space allowed by the first two. When genuinely new evidence or theory changes an authorised claim, the researcher may **explicitly reopen and revise** the contract. Silent relaxation during stylistic editing is not an acceptable substitute.
 
 ## The claim-preservation contract
 
@@ -75,7 +75,7 @@ The most useful interface between research and writing is a project-specific rec
 
 Verified facts and mathematical/statistical correctness remain separately protected as evidence rather than being treated as stylistic preferences.
 
-See the [worked example](case-study-claim-preservation-example.md) and the reusable [Claim-Preservation Contract template](../resources/claim-preservation-contract.html).
+See the [worked example](case-study-claim-preservation-example.html) and the reusable [Claim-Preservation Contract template](../resources/claim-preservation-contract.html).
 
 ## The Academic Writing Filter
 
@@ -83,14 +83,16 @@ The Academic Writing Filter operationalises this hierarchy. It is not a universa
 
 Its role is to screen revision choices against evidence, claim preservation, scholarly context and lower-order writing rules.
 
-[Read the social-science overview](academic-writing-filter.md).
+[Read the social-science overview](academic-writing-filter.html).
 
 ## Evidence ledger
 
-A claim-preservation contract states the authorised argument at project level. An [evidence ledger](evidence-ledger.md) works at paragraph or claim level by linking substantive propositions to the objects that warrant them.
+A claim-preservation contract states the authorised argument at project level. An [evidence ledger](evidence-ledger.html) works at paragraph or claim level by linking substantive propositions to the objects that warrant them.
 
 ## Effectiveness boundary
 
 No claim is made here that the Academic Writing Filter improves writing quality, publication probability, reviewer agreement or writing speed.
 
 The present claim is architectural: it offers an inspectable way to govern revisions so that lower-order writing objectives do not silently override higher-order evidence and inference constraints.
+
+A [constructed end-to-end illustration](../illustrated-workflow.html) shows an unsupported causal rewrite being refused despite the existence of a potentially valid descriptive association. For a stage-sensitive route into the resources, use the [decision guide](../choose-your-route.html).

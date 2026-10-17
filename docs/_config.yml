@@ -6,10 +6,10 @@ url: "https://srudkin12.github.io"
 baseurl: "/GenerativeAI"
 theme: minima
 header_pages:
+  - choose-your-route.md
   - quick-start.md
   - practical-research-protocol.md
-  - methods-implications.md
-  - risks-failure-modes.md
   - worked-cases/index.md
   - resources/index.md
+  - teaching/index.md
   - cite.md

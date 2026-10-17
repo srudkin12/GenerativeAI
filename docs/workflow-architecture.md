@@ -31,7 +31,7 @@ Verified evidence does not write its own interpretation.
 
 Domain knowledge, theory, design and researcher judgement determine what the evidence licenses.
 
-A **claim-preservation contract** can make that boundary explicit through:
+A **claim-preservation contract** (a short record of what can be claimed and what qualifications must survive rewriting) can make that boundary explicit through:
 
 - authorised claims;
 - prohibited claims;
@@ -47,7 +47,7 @@ The manuscript can now be reorganised, clarified, compressed, expanded or adapte
 
 The Academic Writing Filter belongs here.
 
-Revision is treated as an **admissibility problem**: presentation can change only within the space permitted by the evidence, claim-preservation contract and legitimate scholarly-context constraints.
+Revision is treated as an **admissibility problem** (deciding which edits are allowed without changing the supported claim): presentation can change only within the space permitted by the evidence, claim-preservation contract and legitimate scholarly-context constraints.
 
 **Authority:** higher-order research and claim constraints govern lower-order presentation choices.
 
@@ -65,7 +65,7 @@ A validity problem should not be repaired by rhetoric.
 
 ---
 
-# Where reason provenance fits
+## Where reason provenance fits
 
 Reason provenance is **cross-cutting** rather than a fifth production layer.
 
@@ -84,3 +84,5 @@ Reason provenance therefore concerns the **evidential basis of contribution clai
 Manuscript governance concerns the **admissibility of transformations of the scholarly representation**.
 
 The concepts are related, but they solve different problems.
+
+A [constructed survey-analysis illustration](illustrated-workflow.html) demonstrates both kinds of warrant across a single hypothetical project; no real data or transcript is claimed. The [protocol crosswalk](protocol-crosswalk.html) connects this architecture to concrete research decisions.

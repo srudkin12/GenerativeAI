@@ -5,20 +5,24 @@ title: "AI-Assisted Research Decision Log"
 
 # AI-Assisted Research Decision Log
 
+**Use only for decisions that materially affect the research.** If an AI suggestion changes nothing important, no formal log entry is required. **Do not overwrite an original entry with a later judgement.** An entry written later cannot be presented as a contemporaneous record. Retain only material you are permitted to store.
+
+## A. Initial decision record (made at the time, where possible)
+
 **Project:**  
 **Decision ID:**  
-**Date:**  
+**Date/time entered (or dated document version):**  
+**Recorded by:**  
 **Research stage:**  
+**Source/reference for trigger:**  
 
-## Decision
+### Decision under consideration
 
-What consequential decision was made?
+What consequential research move was proposed or made? State the question, comparison, interpretation or boundary that might change.
 
-## Trigger
+### Trigger and traceable origin
 
-What proposal, result, problem or challenge triggered the decision?
-
-## Traceable proposal origin
+What suggested or required the move? Record the identifiable source/version where permitted; choose only what the surviving record can support.
 
 - [ ] Researcher
 - [ ] Generative AI
@@ -28,11 +32,11 @@ What proposal, result, problem or challenge triggered the decision?
 - [ ] Mixed
 - [ ] Indeterminate
 
-## Evidence available at the time
+### Evidence available when the decision was made
 
-What information could actually be known when the decision was made?
+What was actually known **at that point**? Distinguish an AI proposal or planned check from an inspected source, executed analysis or supported conclusion.
 
-## Researcher disposition
+### Researcher decision and reason at that point
 
 - [ ] Accepted
 - [ ] Modified
@@ -40,33 +44,36 @@ What information could actually be known when the decision was made?
 - [ ] Deferred
 - [ ] Requested further analysis
 
-## Reason recorded at the time
+Decision and reason:  
+What could change this decision:  
 
-What reason was recorded contemporaneously?
+## B. Later updates (append, do not replace A)
 
-## Subsequent challenge
+Use one row per consequential new challenge, evidential check, changed judgement or finalisation. Enter dates or traceable versions and identify who made the update. Leave unperformed checks explicitly pending.
 
-What later evidence, critique or robustness test challenged the decision?
+| Date recorded / version | Recorded by | New challenge or evidence (source/reference; completed or proposed?) | Changed decision and reason | Status after update |
+|---|---|---|---|---|
+| | | | | |
 
-## Final status
+Status may be *pending, retained, narrowed, reframed, withdrawn* or *replaced*. Do not put a later status into Section A.
 
-- [ ] Retained
-- [ ] Narrowed
-- [ ] Reframed
-- [ ] Withdrawn
-- [ ] Replaced
+## C. Retrospective reconstruction (only when needed)
 
-## Evidence supporting the final position
+**Date reconstructed:**  
+**Prepared by:**  
+**Surviving sources or versions consulted:**  
+**What is remembered or inferred rather than contemporaneously shown:**  
+**Uncertainty and alternative possible histories:**  
 
-List the empirical output, source, methodological argument or inspection result that now supports the decision.
+A retrospective account may be useful, but it is not proof of when or by whom the original reason was expressed.
 
-## Attribution boundary
+## Attribution boundary at the point of assessment
 
-What contribution claim can be made safely? What cannot be established?
+**Date/source of assessment:**  
+What limited account of contribution is supported? Which alternative origination or decision histories cannot be excluded? Separate recorded proposal, researcher evaluation and successful empirical execution.
 
 ---
 
 ## Completed example
 
-[See the completed PISA example](examples/pisa/ai-assisted-research-decision-log.html).
-
+[See the retrospective PISA example](examples/pisa/ai-assisted-research-decision-log.html), which does **not** claim to be a preserved original form.

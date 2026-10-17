@@ -10,6 +10,8 @@ title: "Completed example: AI-Assisted Research Charter"
 **Discipline / field:** Quantitative social science / social statistics / education comparison  
 **Status:** Retrospective completion from the mature project record
 
+**Template history:** the blank charter now includes a distinct pre-use permission gate (introduced in the v1.1.0 resource revision). This older retrospective example does not document whether permission assessments occurred at a particular earlier point. No missing contemporaneous permission record is invented here.
+
 ## 1. Substantive research problem
 
 International rankings can change even when a system's own performance deteriorates, because the comparison field is also moving.

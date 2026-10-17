@@ -41,6 +41,10 @@ A contribution map that records only novel proposals will systematically miss im
 
 The case is supported by the recorded project specification and frozen methods in the empirical manuscript.
 
+## Evidence available to public readers
+
+Readers can inspect the specification summary on this page; the full empirical manuscript and original development records are **not supplied for independent reproduction** in this repository.
+
 ## Boundary
 
 The record shows researcher governance of these constraints. It does not establish that every technical detail of the subsequent rebuild was independently originated by the researcher.

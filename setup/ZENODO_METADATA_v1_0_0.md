@@ -1,6 +1,6 @@
 # Zenodo Metadata Template — First DOI-Bearing Release
 
-Use this file as the working metadata sheet for the first archived release. Do not publish the record until the repository has passed `setup/PUBLICATION_CHECKLIST.md`.
+> **Historical v1.0.0 record.** v1.0.0 was published on 17 October 2026 with version DOI `10.5281/zenodo.23428193`. The draft-stage instructions below document the original workflow; do not treat this sheet as a live draft or re-publish the archived release. Use [`NEXT_RELEASE_CHECKLIST.md`](NEXT_RELEASE_CHECKLIST.md) for later versions.
 
 ## Identity
 

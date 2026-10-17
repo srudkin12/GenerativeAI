@@ -80,7 +80,7 @@ A project may therefore become increasingly defensible and increasingly ordinary
 
 ### A recurring warning from methodological work
 
-In iterative work on TDABM, repeated adversarial review has at times pushed the manuscript away from the novel methodological contribution. Distinctive claims can be narrowed, rewritten or removed until the manuscript approaches a disciplinary mean.
+In iterative work on **time-dependent Ball Mapper (TDABM)**, an approach that compares local neighbourhood representations across time, repeated adversarial review has at times pushed the manuscript away from the novel methodological contribution. Distinctive claims can be narrowed, rewritten or removed until the manuscript approaches a disciplinary mean.
 
 The problem is not that every narrowing is wrong. Some claims genuinely need to become smaller.
 
@@ -117,9 +117,9 @@ The easiest feature to narrate is not always the most important feature of the m
 
 ### TDABM example
 
-When writing about TDABM, AI-assisted prose can gravitate towards **overlap** because overlap is intuitive and rhetorically accessible.
+When writing about TDABM, AI-assisted prose can gravitate towards **overlap** between local groups because overlap is intuitive and rhetorically accessible.
 
-The methodological object, however, is built around the **balls**: how local neighbourhoods are constructed, what each ball represents, how observations enter those neighbourhoods and how the resulting cover carries information.
+The methodological object, however, is built around the **balls** (local neighbourhoods around reference observations): how local neighbourhoods are constructed, what each ball represents, how observations enter those neighbourhoods and how the resulting cover carries information.
 
 Overlap matters, but an account dominated by overlap can displace attention from the balls themselves.
 
@@ -268,7 +268,7 @@ If the researcher cannot independently evaluate an output, the workflow needs an
 
 ---
 
-# A protocol for resisting the protocol
+## A protocol for resisting the protocol
 
 Before following any step mechanically, ask five questions:
 

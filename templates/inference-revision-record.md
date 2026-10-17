@@ -2,7 +2,10 @@
 
 **Project:**  
 **Inference ID:**  
-**Date:**  
+**Date of original interpretation / known source version:**  
+**Date problem was detected:**  
+**Date revision was recorded:**  
+**Recorded by:**  
 
 ## Original result
 
@@ -37,7 +40,8 @@ What does the result itself support?
 
 ## Replacement analysis or evidence
 
-What alternative evidence was used after the original interpretation was narrowed or withdrawn?
+**Date/source version and verification status:**  
+What alternative evidence was used after the original interpretation was narrowed or withdrawn? Mark any planned but unfinished work as *pending*.
 
 ## Manuscript consequence
 

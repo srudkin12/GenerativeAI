@@ -31,6 +31,10 @@ Later versions distinguished evidence that a person or system **changed the traj
 
 **The evidential quality of an attribution claim depends not only on what was recorded but on when it was recorded and what the record can actually establish.**
 
+## Evidence available to public readers
+
+Readers can inspect the bounded reconstruction and its stated limits; the original full conversation and internal conceptual-development records are **not reproduced** in this repository.
+
 ## Boundary
 
 Retrospective reasoning is not worthless. It is a different evidential object from contemporaneous trace.

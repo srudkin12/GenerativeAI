@@ -30,7 +30,11 @@ What should not be silently changed by AI-assisted exploration?
 
 Consider inclusion/exclusion rules, aggregation decisions, required caveats, disciplinary distinctions, ethical/confidentiality rules and other project-specific constraints.
 
-## 5. Permitted AI roles
+## 5. Pre-use data and disclosure permission
+
+Before any material enters a specific AI service, what do ethics approvals, participant consent, institutional policy, confidentiality, collaborator agreements, contracts and the service's data-handling terms permit? Identify excluded data, any approved environment, and an alternative procedure when permission is absent or unclear. Pseudonymisation alone does not establish that disclosure is safe.
+
+## 6. Permitted AI roles
 
 - [ ] question generation
 - [ ] candidate literature/search terms
@@ -42,21 +46,23 @@ Consider inclusion/exclusion rules, aggregation decisions, required caveats, dis
 - [ ] prose revision
 - [ ] other:
 
-## 6. Verification boundary
+## 7. Verification boundary
 
 For each permitted role, what must happen before the output can influence the evidence base or final claim?
 
-## 7. Consequential decisions to record
+## 8. Consequential decisions to record
 
 Which decisions would materially change the research trajectory and therefore deserve a provenance record?
 
-## 8. Escalation rule
+## 9. Escalation rule
 
 When must the project return to substantive/analytical judgement rather than accept an AI-generated solution?
 
 ---
 
 ## Completed example
+
+The PISA illustration is a **retrospective completion** based on the mature project record and predates the addition of the explicit pre-use permission prompt. Do not infer historical permission decisions from a blank field or reconstruct them as contemporaneous records.
 
 [See the completed PISA example](examples/pisa/ai-assisted-research-charter.html).
 

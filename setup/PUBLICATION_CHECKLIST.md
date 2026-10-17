@@ -1,5 +1,7 @@
 # Publication Checklist for v1.0.0
 
+> **Historical checklist.** v1.0.0 was published on 17 October 2026. These unchecked boxes preserve the original pre-release process, not evidence that publication remains incomplete. Do not re-run the tag/DOI steps against the frozen release. For the next release, use [`NEXT_RELEASE_CHECKLIST.md`](NEXT_RELEASE_CHECKLIST.md).
+
 ## Content
 
 - [ ] README reflects the final public scope.

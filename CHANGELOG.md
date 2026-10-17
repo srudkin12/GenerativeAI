@@ -1,5 +1,32 @@
 # Changelog
 
+## v1.1.0 — substantive public-resource release (17 October 2026)
+
+**Version DOI:** `10.5281/zenodo.23437397`  
+**Version:** `1.1.0`  
+**Licence:** CC BY 4.0
+
+### Reader accessibility and practical use
+
+- Added a task-led decision guide, an accessible three-step beginner route, a protocol crosswalk and a compact field guide.
+- Added a wholly constructed research exchange and an end-to-end survey illustration. All proposed checks are distinguished from executed evidence; no invented research findings or transcripts are claimed.
+- Added teaching exercises across quantitative, qualitative and archival scenarios, including a model response.
+- Introduced plain-language explanations and more explicit evidence boundaries in seven bounded PISA examples.
+
+### Governance and research integrity
+
+- Clarified that consequential decisions should be recorded when they occur; retrospective reconstruction is separately labelled.
+- Added pre-use permissions, confidentiality, institutional policy and data-transfer safeguards.
+- Linked claim authorisation, manuscript transformation and reason provenance through completed miniature records.
+- Added stopping rules to prevent repeated AI revision from suppressing substantive novelty or changing a warranted claim.
+
+### Publishing and presentation
+
+- Removed obsolete first-release procedures from the public Cite page; preserved the v1.0.0 record separately.
+- Updated navigation and templates and corrected narrow-screen wrapping of long DOI links and heading hierarchy.
+- Completed source-integrity, static-link, local-browser and Mac-branch application checks; external human reader evaluation remains future work.
+- Embedded the new version-specific DOI `10.5281/zenodo.23437397` in the v1.1.0 citation and release metadata. The tagged v1.0.0 archive remains unchanged.
+
 ## v1.0.0 — first DOI-bearing public release
 
 ### Release metadata

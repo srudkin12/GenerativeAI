@@ -5,6 +5,10 @@ title: "Case 4: Evidence narrows the method claim"
 
 # Case 4 — When evidence makes the preferred method claim smaller
 
+## What a reader needs to know
+
+**Principal component analysis (PCA)** looks for a compact summary of how observations differ. **Ball Mapper** groups observations into nearby, sometimes overlapping neighbourhoods so researchers can inspect local similarities. The social-science decision here is whether the more elaborate representation adds enough insight once a simpler method describes most of the overall variation.
+
 ## Research setting
 
 The project had a substantive methodological interest in Ball Mapper.
@@ -36,6 +40,10 @@ Methodological commitment is not strengthened by ignoring an inconvenient compar
 ## Evidence status
 
 The 97.31% result was locally verified in the empirical workflow. The public case uses the frozen project result rather than an AI-generated claim.
+
+## Evidence available to public readers
+
+The approximately 97.31% figure is reported from frozen, locally verified project outputs; the underlying computational inputs and outputs are **not provided here for independent re-estimation**. Readers can inspect the stated inferential boundary, not reproduce that number from this page.
 
 ## Boundary
 

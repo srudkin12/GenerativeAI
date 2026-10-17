@@ -17,6 +17,8 @@ The working seminar deck is **not included** in this repository because the curr
 
 The public repository instead provides the practical research protocol, worked cases, reason-provenance material, manuscript-governance material and reusable templates that support follow-up use after the seminar.
 
+A separate [public teaching workshop](../teaching/) provides newly constructed scenarios and discussion prompts; it is **not** a release of the internal seminar deck.
+
 ## Possible later public release
 
 A screened seminar release may add:
