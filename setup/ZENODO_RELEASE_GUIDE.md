@@ -67,7 +67,7 @@ Add only if Simon chooses to include it.
 2. Create a new **draft** Zenodo record.
 3. Enter the proposed v1.0.0 metadata, including CC BY 4.0 and the closest appropriate non-software resource type.
 4. Reserve the DOI while the record remains a draft.
-5. Record the reserved DOI in `setup/ZENODO_METADATA_v1_0_0.md`.
+5. Record the reserved DOI in `setup/ZENODO_METADATA_v1_0_0.md`. For v1.0.0 the reserved DOI is `10.5281/zenodo.23428193`.
 6. Update the repository to the exact v1.0.0 state:
    - `CITATION.cff`;
    - `docs/cite.md`;

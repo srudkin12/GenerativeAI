@@ -57,10 +57,10 @@ Unless otherwise noted, original text, templates and documentation in this repos
 
 ## Repository status
 
-**v0.3.12 — v1.0.0 release-readiness preparation**
+**v1.0.0 — first DOI-bearing public release**
 
 ## Citation
 
-A machine-readable [`CITATION.cff`](CITATION.cff) is included. The first DOI will be reserved in the Zenodo draft and inserted into the repository before the v1.0.0 tag is created.
+A machine-readable [`CITATION.cff`](CITATION.cff) is included. The version-specific DOI for v1.0.0 is [`10.5281/zenodo.23428193`](https://doi.org/10.5281/zenodo.23428193).
 
 See [How to cite](docs/cite.md).

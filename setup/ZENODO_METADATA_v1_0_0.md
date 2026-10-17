@@ -17,7 +17,7 @@ Department of Social Statistics, University of Manchester
 1.0.0
 
 **Publication date**<br>
-Set to the actual public release date when v1.0.0 is prepared.
+2026-10-17
 
 **ORCID**<br>
 Add only if Simon chooses to include it.
@@ -66,9 +66,9 @@ Zenodo (confirm the final record display before publication).
 ## DOI control
 
 **Reserved version DOI**<br>
-`TO BE RESERVED IN ZENODO DRAFT`
+`10.5281/zenodo.23428193`
 
-Reserve the DOI **before** creating the final v1.0.0 tag. Insert the reserved DOI into `CITATION.cff`, `docs/cite.md` and `README.md`, then run the final release audit.
+The version DOI has been reserved in the Zenodo draft: `10.5281/zenodo.23428193`. Keep the Zenodo record unpublished until the exact tagged v1.0.0 archive has been uploaded and checked.
 
 If a concept DOI for the version family becomes available after publication, record it separately from the version-specific DOI.
 

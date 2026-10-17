@@ -1,11 +1,13 @@
 cff-version: 1.2.0
-message: "If you use this resource, please cite it using the metadata below. The first DOI will be inserted when the v1.0.0 Zenodo draft reserves it."
+message: "If you use this resource, please cite it using the metadata below."
 title: "AI-Assisted Social Science Research: Methods, Governance and Reason Provenance"
 authors:
   - family-names: "Rudkin"
     given-names: "Simon"
     affiliation: "Department of Social Statistics, University of Manchester"
-version: "0.3.12"
+version: "1.0.0"
+date-released: 2026-10-17
+doi: "10.5281/zenodo.23428193"
 license: "CC-BY-4.0"
 repository: "https://github.com/srudkin12/GenerativeAI"
 url: "https://srudkin12.github.io/GenerativeAI/"

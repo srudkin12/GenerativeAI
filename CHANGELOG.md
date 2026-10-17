@@ -1,5 +1,22 @@
 # Changelog
 
+## v1.0.0 — first DOI-bearing public release
+
+### Release metadata
+
+- canonical title: **AI-Assisted Social Science Research: Methods, Governance and Reason Provenance**;
+- version-specific Zenodo DOI: `10.5281/zenodo.23428193`;
+- release date: 17 October 2026;
+- licence: **CC BY 4.0**;
+- creator: Simon Rudkin, Department of Social Statistics, University of Manchester.
+
+### Release preparation
+
+- promoted repository metadata from the 0.3.x development series to version 1.0.0;
+- inserted the reserved Zenodo DOI into `CITATION.cff`, README, Cite page and the Zenodo metadata sheet;
+- retained the public-resource classification as a research/educational resource rather than software;
+- prepared the repository for the final integrity audit, `v1.0.0` tag, GitHub Release and exact tagged archive upload to the existing Zenodo draft.
+
 ## v0.3.12 — v1.0.0 release-readiness preparation
 
 ### Added

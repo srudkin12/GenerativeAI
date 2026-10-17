@@ -5,13 +5,13 @@ title: Cite
 
 # How to cite this resource
 
-## Development citation
+## Release citation
 
-Until the DOI-bearing v1.0.0 release is published, use:
+For v1.0.0, cite:
 
-> Rudkin, Simon. *AI-Assisted Social Science Research: Methods, Governance and Reason Provenance*. Version 0.3.12 (development). Department of Social Statistics, University of Manchester.
+> Rudkin, Simon. (2026). *AI-Assisted Social Science Research: Methods, Governance and Reason Provenance* (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.23428193
 
-The first permanent DOI will be reserved in the Zenodo draft and inserted into the repository before the v1.0.0 release is tagged. Once v1.0.0 is published, the DOI-bearing release citation should replace this development citation.
+The DOI above is the version-specific DOI for the first archived public release.
 
 ## Academic Writing Filter
 
@@ -43,7 +43,7 @@ For the first DOI-bearing release:
 4. record Simon Rudkin as creator with the Department of Social Statistics, University of Manchester affiliation;
 5. add ORCID if desired;
 6. select **CC BY 4.0** as the repository licence;
-7. reserve the Zenodo DOI while the record is still a draft;
+7. reserve the Zenodo DOI while the record is still a draft — **completed for v1.0.0: `10.5281/zenodo.23428193`**;
 8. update `CITATION.cff`, this page and the README to version **1.0.0**, adding the reserved DOI and release date;
 9. run the final integrity checks and regenerate `SHA256SUMS.txt`;
 10. commit the exact release state and create the Git tag `v1.0.0`;
