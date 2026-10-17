@@ -91,6 +91,6 @@ Rudkin, S. (2026). *From Writing Advice to Manuscript Governance: A Constrained-
 
 ## Licensing boundary
 
-The canonical October 2026 filter is **not copied into this repository** in v0.2.0.
+The canonical October 2026 filter is **not copied into this repository**.
 
 The canonical filter is linked rather than reproduced here. Any later inclusion should follow the licence and provenance information attached to the public artefact.

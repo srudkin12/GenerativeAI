@@ -1,30 +1,43 @@
-# Licence Decision Before Public Release
+# Licence and Reuse
 
-No repository-wide licence is imposed in this development release.
+## Repository-wide licence
 
-Before the repository becomes public, select an explicit licence for the text and reusable templates. A permissive attribution licence such as **Creative Commons Attribution 4.0 International (CC BY 4.0)** may fit the intended academic reuse model, but the choice should be made deliberately before release.
+The original text, templates and documentation in this repository are licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)** unless a file or passage states otherwise.
+
+The repository licence is recorded in [`LICENSE`](LICENSE) and in `CITATION.cff`.
+
+CC BY 4.0 permits sharing and adaptation, including commercial reuse, provided that appropriate credit is given, the licence is linked, and changes are indicated.
+
+## Rights boundary
+
+The repository-wide licence applies only to material for which Simon Rudkin can grant those rights. It does **not** automatically apply to:
+
+- third-party figures, images, screenshots or extracts;
+- journal or publisher material;
+- BBC or other externally owned material;
+- externally linked resources;
+- material carrying a separate rights statement.
+
+No such third-party assets are intended to be bundled in the first DOI-bearing release unless their rights are separately cleared and documented.
 
 ## Academic Writing Filter boundary
 
-The canonical October 2026 Academic Writing Filter is currently linked rather than reproduced in this repository.
+The canonical October 2026 Academic Writing Filter is linked rather than reproduced in this repository.
 
-v0.2.0 therefore:
+The repository therefore:
 
 - explains the manuscript-governance mechanism;
 - cites and links to the current public filter;
 - provides new case-study-facing templates and examples;
-- **does not copy the canonical filter into the repository or assign it a repository licence**.
+- **does not copy the canonical filter into the repository or assign the repository licence to it**.
 
-Any later decision to include the canonical filter should follow the rights and licensing information attached to the public artefact.
+Any later decision to include the canonical filter should follow the rights and licensing information attached to that public artefact.
 
-## Before v1.0
+## Release rule
 
-Confirm:
+Every DOI-bearing release should:
 
-1. the chosen repository licence;
-2. a complete licence file;
-3. matching licence metadata in the DOI deposit;
-4. separate rights statements for third-party figures or reproduced material;
-5. the final licensing status of the Academic Writing Filter if it is to be bundled.
-
-Do not assume that third-party images, screenshots, journal material, BBC material or externally owned content inherits the repository licence.
+1. retain the repository `LICENSE`;
+2. record `CC-BY-4.0` in `CITATION.cff`;
+3. select the same licence in the archival deposit;
+4. identify any exception or third-party rights statement explicitly.

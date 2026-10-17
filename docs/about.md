@@ -51,3 +51,10 @@ Attribution and desirability are separate questions. A workflow can be transpare
 ## Acknowledgements
 
 Thanks are due to Professor Jason Thatcher for his inspirational discussions on AI and research. I also thank seminar participants at The University of Manchester Department of Social Statistics for their feedback on the project.
+
+
+## Licence and reuse
+
+Unless otherwise noted, original text, templates and documentation in this repository are licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**. Appropriate credit, a link to the licence and an indication of changes are required when material is reused or adapted. Third-party and externally linked material retain their own rights.
+
+Full repository rights information is recorded in the [LICENSE file](https://github.com/srudkin12/GenerativeAI/blob/main/LICENSE).

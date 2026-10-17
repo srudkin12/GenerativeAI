@@ -29,36 +29,100 @@
 
 ## Rights and provenance
 
-- [ ] Academic Writing Filter licensing/provenance decision checked.
+- [ ] Repository `LICENSE` is present and states CC BY 4.0.
+- [ ] `CITATION.cff` records `CC-BY-4.0`.
+- [ ] Zenodo draft uses the same CC BY 4.0 licence.
+- [ ] Academic Writing Filter licensing/provenance boundary is checked.
 - [ ] Cochrane is not described as author, approver or endorser of the filter.
-- [ ] Repository licence chosen and added.
-- [ ] Third-party rights statements checked.
+- [ ] Third-party rights statements are checked.
 
 ## Identity and citation
 
 - [ ] Author: Simon Rudkin.
 - [ ] Affiliation: Department of Social Statistics, University of Manchester.
 - [ ] ORCID added if desired.
-- [ ] `CITATION.cff` updated.
-- [ ] Version changed from development to public release.
-- [ ] Academic Writing Filter and working-paper citations checked.
-- [ ] Zenodo metadata checked.
-- [ ] Zenodo title exactly matches `CITATION.cff` and the public repository title.
-- [ ] Zenodo version exactly matches the Git tag/release version.
-- [ ] DOI added after deposit.
+- [ ] Canonical title is identical across `CITATION.cff`, Cite page, GitHub Release metadata and Zenodo draft.
+- [ ] Development version has been changed to public release version `1.0.0`.
+- [ ] Actual release date is recorded.
+- [ ] GitHub repository URL and public landing-page URL are recorded.
+- [ ] Academic Writing Filter and working-paper citations are checked.
 
-## Repository checks
+## Zenodo draft and DOI
+
+- [ ] Zenodo draft created before final tag.
+- [ ] Closest available non-software resource type selected.
+- [ ] Title, creator, affiliation, version, description, keywords and licence checked.
+- [ ] DOI reserved while record is still a draft.
+- [ ] Reserved version DOI added to `setup/ZENODO_METADATA_v1_0_0.md`.
+- [ ] Same reserved DOI added to `CITATION.cff`.
+- [ ] Same reserved DOI added to `docs/cite.md`.
+- [ ] Same reserved DOI added to `README.md`.
+
+## Website checks
+
+- [ ] Deployed GitHub Pages site opens at `https://srudkin12.github.io/GenerativeAI/`.
+- [ ] Main navigation and footer links click-tested on desktop.
+- [ ] Site checked on a narrow/mobile viewport.
+- [ ] Academic Writing Filter external link tested in a normal browser.
+- [ ] Acknowledgements section and footer anchor tested.
+- [ ] Cite page displays the intended v1.0.0 citation and DOI.
+
+## Repository and integrity checks
+
+From the repository root:
 
 ```bash
 git status
 find . -maxdepth 5 -type f | sort
 ```
 
-Confirm that no unexpected files, temporary files or private artefacts are being tracked.
+Confirm that no unexpected files, temporary files, `.DS_Store` files or private artefacts are tracked.
+
+Check for stale active development wording:
+
+```bash
+grep -RIn --exclude-dir=.git "v0\.2\.0" .
+grep -RIn --exclude-dir=.git "YOUR-GITHUB-USERNAME" .
+```
+
+Historical references in the changelog are acceptable; active setup or public guidance is not.
+
+After every release edit is complete, regenerate `SHA256SUMS.txt` and verify it:
+
+```bash
+find . -type f \
+  ! -path './.git/*' \
+  ! -name 'SHA256SUMS.txt' \
+  -print | LC_ALL=C sort | while IFS= read -r f; do \
+    shasum -a 256 "$f"; \
+  done > SHA256SUMS.txt
+
+shasum -a 256 -c SHA256SUMS.txt
+```
+
+Every checksum must report `OK`.
+
+## Final commit and tag
+
+- [ ] Final v1.0.0 metadata and reserved DOI are committed.
+- [ ] Working tree is clean.
+- [ ] `SHA256SUMS.txt` verifies against the final commit contents.
 
 Then:
 
 ```bash
-git tag -a v1.0.0 -m "First public release"
+git status
+git tag -a v1.0.0 -m "First DOI-bearing public release"
+git push origin main
 git push origin v1.0.0
 ```
+
+## GitHub Release and Zenodo publication
+
+- [ ] Create a GitHub Release from `v1.0.0`.
+- [ ] GitHub Release title uses the canonical scholarly title and version 1.0.0.
+- [ ] Create the clean archive from the tag with `git archive`.
+- [ ] Upload that exact tagged archive to the prepared Zenodo draft.
+- [ ] Preview the Zenodo record and generated citation.
+- [ ] Publish the Zenodo record.
+- [ ] Confirm that the published DOI resolves and the uploaded archive is the expected v1.0.0 object.

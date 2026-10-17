@@ -4,27 +4,41 @@ Use this file as the working metadata sheet for the first archived release. Do n
 
 ## Identity
 
-**Title**  
+**Title**<br>
 AI-Assisted Social Science Research: Methods, Governance and Reason Provenance
 
-**Creator**  
+**Creator**<br>
 Simon Rudkin
 
-**Affiliation**  
+**Affiliation**<br>
 Department of Social Statistics, University of Manchester
 
-**Version**  
+**Version**<br>
 1.0.0
 
-**ORCID**  
+**Publication date**<br>
+Set to the actual public release date when v1.0.0 is prepared.
+
+**ORCID**<br>
 Add only if Simon chooses to include it.
+
+## Rights and access
+
+**Licence**<br>
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+**Access/visibility**<br>
+Open/public, subject to final confirmation in the Zenodo draft.
+
+**Rights boundary**<br>
+The repository licence covers original repository text, templates and documentation unless otherwise stated. Third-party and externally linked material retain their own rights.
 
 ## Resource description
 
-**Resource type**  
-Choose the closest available Zenodo type at deposit time for a research/educational resource. Do not classify the release as software merely because it is distributed through GitHub.
+**Resource type**<br>
+Choose the closest available non-software type in the current Zenodo interface for a research/educational resource. Do not classify the release as software merely because it is distributed through GitHub.
 
-**Description**  
+**Description**<br>
 A practical social-science resource on generative-AI-assisted research. The resource connects proposal generation, verification, adversarial challenge, claim authorisation, reason provenance and manuscript governance through transferable methods, worked research episodes and reusable tools. Selected examples arise from a PISA research project, but the public resource is intended for wider research and graduate-methods use.
 
 **Keywords**
@@ -38,22 +52,35 @@ A practical social-science resource on generative-AI-assisted research. The reso
 - research transparency
 - AI-assisted research
 
+## Locations
+
+**GitHub repository**<br>
+https://github.com/srudkin12/GenerativeAI
+
+**Public landing page**<br>
+https://srudkin12.github.io/GenerativeAI/
+
+**Publisher/archive**<br>
+Zenodo (confirm the final record display before publication).
+
+## DOI control
+
+**Reserved version DOI**<br>
+`TO BE RESERVED IN ZENODO DRAFT`
+
+Reserve the DOI **before** creating the final v1.0.0 tag. Insert the reserved DOI into `CITATION.cff`, `docs/cite.md` and `README.md`, then run the final release audit.
+
+If a concept DOI for the version family becomes available after publication, record it separately from the version-specific DOI.
+
 ## Metadata consistency
 
-Before upload, verify that all three objects agree:
+Before the tag is created, verify that these objects agree:
 
-1. Git tag/release: `v1.0.0`;
-2. `CITATION.cff`: title above and version `1.0.0`;
-3. Zenodo record: title above and version `1.0.0`.
+1. GitHub Release title and tag: canonical title, `v1.0.0`;
+2. `CITATION.cff`: canonical title and version `1.0.0`;
+3. public Cite page: canonical title, version `1.0.0` and reserved DOI;
+4. Zenodo draft: canonical title, version `1.0.0`, CC BY 4.0 and the same reserved DOI.
 
-## DOI return path
+## Archive identity
 
-After Zenodo assigns/publishes the DOI, record it in:
-
-- `CITATION.cff`;
-- `docs/cite.md`;
-- repository `README.md`;
-- GitHub release notes;
-- the next tagged release.
-
-The first archived `v1.0.0` object may therefore pre-date the DOI being written back into the repository. Preserve that chronology rather than silently replacing the archived object.
+The Zenodo upload must be the ZIP produced from the exact `v1.0.0` Git tag using `git archive`, not an arbitrary working-directory ZIP.

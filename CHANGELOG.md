@@ -1,5 +1,27 @@
 # Changelog
 
+## v0.3.12 — v1.0.0 release-readiness preparation
+
+### Added
+
+- selected **CC BY 4.0** as the repository-wide licence for original text, templates and documentation, with explicit third-party and Academic Writing Filter exclusions;
+- added a root `LICENSE` file;
+- added repository and public landing-page URLs to `CITATION.cff`.
+
+### Changed
+
+- updated development metadata to v0.3.12;
+- replaced stale v0.2.0 wording in active licensing and Academic Writing Filter guidance;
+- rewrote the Mac setup guide around the actual `srudkin12/GenerativeAI` repository;
+- changed the DOI workflow so the Zenodo DOI is reserved **before** the final v1.0.0 tag, allowing the DOI to be embedded in the first archived release;
+- added an explicit GitHub Release step;
+- expanded the Zenodo v1.0.0 metadata template and public-release checklist;
+- clarified that title/version consistency applies to scholarly release metadata, not the literal GitHub repository name.
+
+### Integrity
+
+- regenerated `SHA256SUMS.txt` after the release-readiness changes and verified the resulting manifest.
+
 ## v0.3.11 — Zenodo metadata alignment
 
 - aligned the proposed Zenodo title with the canonical repository and `CITATION.cff` title: **AI-Assisted Social Science Research: Methods, Governance and Reason Provenance**;

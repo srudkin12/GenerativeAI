@@ -1,14 +1,16 @@
 # Mac Terminal Setup
 
-These instructions assume that the downloaded repository folder is named:
+These instructions describe how to obtain and work with the public repository on a Mac. The GitHub repository is:
 
-`ai-assisted-social-science-research`
+`https://github.com/srudkin12/GenerativeAI`
 
-No Linux-specific paths are used.
+The examples below keep the existing local folder name used during development:
+
+`$HOME/Documents/Research/ai-assisted-social-science-research`
 
 ## 1. Check Git
 
-Open **Terminal** on the Mac and run:
+Open **Terminal** and run:
 
 ```bash
 git --version
@@ -16,117 +18,107 @@ git --version
 
 If macOS asks to install the Command Line Tools, accept that installation and rerun the command afterwards.
 
-## 2. Move the repository somewhere permanent
+## 2. Clone the public repository
 
-For example:
+Create a permanent research directory:
 
 ```bash
 mkdir -p "$HOME/Documents/Research"
-cd "$HOME/Downloads"
-mv ai-assisted-social-science-research "$HOME/Documents/Research/"
-cd "$HOME/Documents/Research/ai-assisted-social-science-research"
+cd "$HOME/Documents/Research"
 ```
 
-If the folder is somewhere else, simply `cd` to that location instead.
+### HTTPS route
 
-## 3. Inspect the starter
+```bash
+git clone https://github.com/srudkin12/GenerativeAI.git ai-assisted-social-science-research
+cd ai-assisted-social-science-research
+```
+
+### SSH route
+
+Use this alternative if your GitHub SSH key is already configured:
+
+```bash
+git clone git@github.com:srudkin12/GenerativeAI.git ai-assisted-social-science-research
+cd ai-assisted-social-science-research
+```
+
+Use **one** clone route, not both.
+
+## 3. Inspect the repository
 
 ```bash
 pwd
+git status
+git remote -v
 find . -maxdepth 3 -type f | sort
 ```
 
-## 4. Initialise Git locally
+The expected GitHub remote is `srudkin12/GenerativeAI`.
+
+## 4. Update an existing clone
+
+If the repository is already present locally:
 
 ```bash
-git init
-git branch -M main
-git add .
+cd "$HOME/Documents/Research/ai-assisted-social-science-research"
 git status
-git commit -m "Initial social science reason-provenance resource"
+git pull --ff-only origin main
 ```
 
-If Git asks for your identity, set it once:
+Do not pull across uncommitted local changes without first inspecting them.
 
-```bash
-git config --global user.name "Simon Rudkin"
-git config --global user.email "YOUR-GITHUB-EMAIL"
-```
+## 5. Maintainer update cycle
 
-Then repeat the commit.
-
-## 5A. Easiest route if you prefer to create the repository in the browser
-
-On GitHub, create an **empty** repository called:
-
-`ai-assisted-social-science-research`
-
-Do not ask GitHub to add a README, licence or `.gitignore`, because those files already exist locally.
-
-GitHub will show the remote URL. Copy it exactly.
-
-### SSH remote
-
-```bash
-git remote add origin git@github.com:YOUR-GITHUB-USERNAME/ai-assisted-social-science-research.git
-git push -u origin main
-```
-
-### HTTPS remote
-
-```bash
-git remote add origin https://github.com/YOUR-GITHUB-USERNAME/ai-assisted-social-science-research.git
-git push -u origin main
-```
-
-Use **one** of those remote commands, not both.
-
-## 5B. Terminal-only route if GitHub CLI is already installed
-
-Check:
-
-```bash
-gh --version
-```
-
-If available:
-
-```bash
-gh auth status
-gh repo create ai-assisted-social-science-research \
-  --public \
-  --source=. \
-  --remote=origin \
-  --push
-```
-
-If `gh` is not installed, route 5A avoids installing anything extra.
-
-## 6. Everyday update cycle
+Readers who only want to use the resource do not need write access. Maintainers with permission to push can use:
 
 ```bash
 cd "$HOME/Documents/Research/ai-assisted-social-science-research"
 git status
 git add -A
 git commit -m "Describe the change"
-git push
+git push origin main
 ```
 
-## 7. Create a version tag when a public release is ready
+If Git asks for your identity, configure it once:
 
-Do **not** tag v1.0.0 until the public-release checklist has been completed.
+```bash
+git config --global user.name "Simon Rudkin"
+git config --global user.email "YOUR-GITHUB-EMAIL"
+```
 
-When ready:
+## 6. GitHub Pages
+
+The public site is built from `/docs` in the `main` branch. See [`GITHUB_PAGES_GUIDE.md`](GITHUB_PAGES_GUIDE.md).
+
+Current public landing page:
+
+`https://srudkin12.github.io/GenerativeAI/`
+
+## 7. Preparing v1.0.0
+
+Do **not** create the `v1.0.0` tag until:
+
+- the publication checklist is complete;
+- the repository licence is final;
+- the Zenodo draft exists;
+- the DOI has been reserved in that draft;
+- the reserved DOI has been inserted into the v1.0.0 repository metadata;
+- `SHA256SUMS.txt` has been regenerated and verified.
+
+When the final release commit is ready:
 
 ```bash
 git status
-git tag -a v1.0.0 -m "First public release"
+git tag -a v1.0.0 -m "First DOI-bearing public release"
 git push origin v1.0.0
 ```
 
-## 8. Create a clean ZIP for a manual Zenodo deposit
+Then create a GitHub Release from the `v1.0.0` tag.
 
-After the tag exists:
+## 8. Create the clean archive for Zenodo
+
+Create the archive **from the tag**, not from the working directory:
 
 ```bash
 git archive \
@@ -135,4 +127,4 @@ git archive \
   v1.0.0
 ```
 
-The resulting archive contains only files tracked by Git at that tag.
+The resulting archive contains only files tracked by Git at the tagged release. Upload that exact archive to the prepared Zenodo draft before publication.

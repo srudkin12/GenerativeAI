@@ -50,12 +50,17 @@ Generated text, code or interpretation is a research artefact. It becomes eligib
 
 No raw private chat logs, confidential review materials or unreleased internal evidence dossiers are included.
 
+
+## Licence
+
+Unless otherwise noted, original text, templates and documentation in this repository are licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**. See [`LICENSE`](LICENSE) and [`LICENCE_DECISION.md`](LICENCE_DECISION.md) for the rights boundary and exclusions.
+
 ## Repository status
 
-**v0.3.11 — Zenodo title and release-metadata alignment**
+**v0.3.12 — v1.0.0 release-readiness preparation**
 
 ## Citation
 
-A machine-readable [`CITATION.cff`](CITATION.cff) is included. A DOI should be added after the first archived public release.
+A machine-readable [`CITATION.cff`](CITATION.cff) is included. The first DOI will be reserved in the Zenodo draft and inserted into the repository before the v1.0.0 tag is created.
 
 See [How to cite](docs/cite.md).
